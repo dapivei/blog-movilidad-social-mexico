@@ -2,7 +2,7 @@
 title: "Movilidad Social Intergeneracional en México"
 ---
 
-> _Estudia, esfuerzáte, trabaja y triunfarás!_ 
+> _Estudia, esfuerzáte, trabaja y ¿triunfarás?_ 
 
 # (In)movilidad social en México
 
@@ -14,11 +14,9 @@ title: "Movilidad Social Intergeneracional en México"
 
 
 
-_¡Estudia, esfuerzáte y triunfarás! Los pobres son pobres porque quieren. Al que madruga, Dios le ayuda._ Todos hemos escuchado alguna vez comentarios como los anteriores. Incluso, en ocasiones, quizá también fuimos los que vertimos este tipo de comentarios.  ¿Qué tanta veracidad existe en los enunciados anteriores? Si partimos de la premisa de que vivimos en sociedades justas y meritócraticas, los enunciados anteriores podrían ser verídicos: entonces, bastaría ser personas constantes, perseverantes, trabajadoras y estudiosas para ascender en los estratos económicos más altos y privilegiados en la sociedad; y, viceversa, ser personas "flojas", para descender a los percentiles ecónomicos más bajos. Sin embargo, ¿esta permisa se observa en la realidad? Quizá no en México, ¿pero sí en otros países con mayores índices de desarrollo humano? 
+_¡Estudia, esfuerzáte y triunfarás! Los pobres son pobres porque quieren. Al que madruga, Dios le ayuda._ Todos hemos escuchado alguna vez comentarios como los anteriores. Incluso, en ocasiones, quizá también fuimos los que vertimos este tipo de comentarios.  ¿Qué tanta veracidad existe en los enunciados anteriores? Si partimos de la premisa de que vivimos en sociedades justas y meritócraticas, los enunciados anteriores podrían ser verídicos: entonces, bastaría ser personas constantes, perseverantes, trabajadoras y estudiosas para ascender a los estratos económicos más altos y privilegiados de la sociedad; y, viceversa, ser personas "flojas", para descender a los percentiles ecónomicos más bajos. Sin embargo, ¿se observa esto en la realidad? Quizá no en México, ¿pero sí en otros países con mayores índices de desarrollo humano? 
 
-Veamos el siguiente gráfico, obtenidos con datos dispuestos por el Foro Económico Mundial(FMI) en 2020, en relación a la movilidad social en el mundo, 
-
-Contexto internacional
+Veamos el siguiente gráfico, obtenido con datos dispuestos por el Foro Económico Mundial(FMI) en 2020, en relación a la movilidad social, entendida como el movimiento (hacia arriba o abajo) de las personas, familias y hogares dentro o a través de distintos estratos sociales, en el mundo. En el eje de las $x$ tenemos el *ranking* (de mayor a menor) de los países de acuerdo con sus índices de movilidad social. En el eje de las *y*, tenemos el puntaje de movilidad social por país (del 0 al 100); dónde 100 significa movilidad perfecta y cero, la inexistencia de movilidad social. 
 
 
 <p align="center">
@@ -27,11 +25,10 @@ Contexto internacional
 
 </p>
 
-¿Qué es la movilidad social?Es el movimiento o desplazamiento que efectúan los individuos, las familias o los grupos sociales dentro de un determinado sistema socioeconómico.>
 
+De acuerdo con esta gráfica, en ningún lugar del mundo existe movilidad social perfecta; en ningún lugar los resultados de vida de las personas son independientes de los resultados de vida de sus ascendientes. Así, parece ser que ni en Dinamarca, país con mayor movilidad social (*85.2/100*), los resultados de vida de las personas son producto exclusivo de sus esfuerzos y méritos individuales. 
 
-Las sociedades deben tender a tener una movilidad social alta. Esto significaría que las personas que se esfuercen y tengan méritos, pueden mejorar su calidad de vida y subir en la escala social. Por el contrario, una sociedad con movilidad social baja genera pocas esperanzas de progreso para sus miembros, pues las personas tienden a retener el estatus social de sus antepasados sin importar el esfuerzo y logros personales.
-
+Ahora bien, concentrándonos en el caso mexicano, observamos que México ocupa el puesto 58 (de 82 países), en términos de su capacidad de movildiad social intergeneracional.  
 ¿Qué es la movilidad social intergeneracional?
 Es un parámetro que mide la correlación entre la posición económica de una persona con respecto a la de sus progenitores. Se trata de los ascensos y descensos en la escala social que se dan entre padres (origen) e hijos (destino). Generalmente, se estudia comparando la posición de los padres -normalmente según las ocupaciones- con la de sus hijos.
 
