@@ -65,10 +65,11 @@ Es indispensable lograr revertir esta situación.
 Contexto internacional
 
 
+<p align="center">
 
+  <img src="images/movilidad_social_mundo.png" />
 
-
-
+</p>
 
 
 
