@@ -1,5 +1,6 @@
 ---
 title: "Movilidad Social Intergeneracional en México"
+date: "11/28/2020"
 output: 
    html_document:
     df_print: paged
@@ -9,95 +10,8 @@ output:
 
 ---
 
-```{r, include=FALSE}
-ipak <- function(pkg){
-new.pkg <- pkg[!(pkg %in% installed.packages()[, "Package"])]
-if (length(new.pkg)) 
-    install.packages(new.pkg, dependencies = TRUE)
-sapply(pkg, require, character.only = TRUE)
-}
 
-# usage
-packages <- c("ggplot2", "dplyr", "tidyr", 
-              "survey", "janitor", "vtree",
-              'questionr', 'purrr',
-              'weights', 'pollster', 'plotly', 
-              'knitr', 'htmltools')
-
-ipak(packages)
-
-opts_chunk$set(fig.width=6, fig.height=4,
-               echo=FALSE, warning=FALSE, message=FALSE, 
-               fig.align = 'center', results = 'asis',
-               paged.print=TRUE)
-```
-
-
-
-
-```{r echo=FALSE, warning=FALSE}
-movilidad_social = read.csv('/Users/danielapintoveizaga/Downloads/clean_data.csv')
-ms <- movilidad_social %>% drop_na(quintil_or)
-```
-
-
-```{r echo=FALSE}
-props_quintiles <- xtabs(factor~quintil_or+quintil_des, data=ms)
-props_quintiles_df <- data.frame(props_quintiles)
-props_quintiles_df<-props_quintiles_df[rep(row.names(props_quintiles_df), props_quintiles_df$Freq), 1:2]
-```
-
-
-```{r echo=FALSE}
-prop_quintiles_movibilidad <-crosstab(
-  ms,
-  quintil_or,
-  quintil_des,
-  factor,
-  remove = "",
-  n = TRUE,
-  pct_type = "row",
-  format = "wide",
-  unwt_n = FALSE
-)
-#write.csv(prop_quintiles_movibilidad,"quintiles_movilidad.csv", row.names = FALSE)
-```
-
-
-
-```{r echo=FALSE}
-world_sm<-read.csv('/Users/danielapintoveizaga/Desktop/index_world_social_mobility.csv')
-```
-
-
-
-```{r echo=FALSE, fig.align="center"}
-g1 <- subset(world_sm, world_sm$Country == "Mexico")
-g2 <- subset(world_sm, world_sm$Country == "United States")
-g3 <- subset(world_sm, world_sm$Country == "Ivory Coast")
-g4 <- subset(world_sm, world_sm$Country == "Denmark")
-g5 <- subset(world_sm, world_sm$Country == "Ecuador")
-
-
-p<-ggplot(world_sm, aes(y=Index.Score, x=Rank)) +
-   geom_point(alpha=1/3)+
-   geom_point(data=g1, color="#59981a")+
-   geom_text(data=g1, label="México", vjust=1.5, color="#59981a")+
-   geom_point(data=g2, color="#145da0")+
-   geom_text(data=g2, label="Estados Unidos", vjust=2.5, color='#145da0') +
-   geom_point(data=g3, color="#2e8bc0")+
-   geom_text(data=g3, label="Costa de Marfil", vjust=1, hjust=5.5, color='#2e8bc0') +
-   geom_point(data=g4, color="#0c2d48")+
-   geom_text(data=g4, label="Dinamarca", vjust=1, hjust=-0.32, color='#0c2d48') +
-   geom_point(data=g5, color="#5885af")+
-   geom_text(data=g5, label="Ecuador", vjust=-1, color='#5885af') +
-   labs(title='Movilidad Social en el Mundo', subtitle='Índice, 2020', y='Índice', x='Ranking', caption='Elaboración propia con base en el índice de movilidad social creado por el Foro Económico Mundial.')+
-   theme_minimal()
-htmltools::div(ggplotly(p), align="center" )
-
-
-```
-
+![](images/thumbnail.png?raw=true)
 
 Estudia, esfuerzáte y trabaja, es lo que normalmente la gente recomienda como la combinación mágica para ascender en la escala social.  
 
