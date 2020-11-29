@@ -8,15 +8,24 @@ title: "Movilidad Social Intergeneracional en México"
 
 <p align="center">
 
-  <img src="images/thumbnail.png"  width=300/>
+  <img src="images/thumbnail.png"  width=200 height =250/>
 
 </p>
 
 
 
-_¡Estudia, esfuerzáte y triunfarás! Los pobres son pobres porque quieren. Al que madruga, Dios le ayuda._ Todos hemos escuchado alguna vez comentarios como los anteriores. Incluso, en algunas ocasiones, quizá también fuimos los que vertimos este tipo de comentarios, puesto que, bajo la premisa de que vivimos en sociedades justas y meritócraticas, parecería ser que basta ser una persona constantes, perseverante, trabajadora y estudiosa para ascender en la escala social. Sin embargo, ¿es esto lo que sucede en realidad?
+_¡Estudia, esfuerzáte y triunfarás! Los pobres son pobres porque quieren. Al que madruga, Dios le ayuda._ Todos hemos escuchado alguna vez comentarios como los anteriores. Incluso, en ocasiones, quizá también fuimos los que vertimos este tipo de comentarios.  ¿Qué tanta veracidad existe en los enunciados anteriores? Si partimos de la premisa de que vivimos en sociedades justas y meritócraticas, los enunciados anteriores podrían ser verídicos: entonces, bastaría ser personas constantes, perseverantes, trabajadoras y estudiosas para ascender en los estratos económicos más altos y privilegiados en la sociedad; y, viceversa, ser personas "flojas", para descender a los percentiles ecónomicos más bajos. Sin embargo, ¿esta permisa se observa en la realidad? Quizá no en México, ¿pero sí en otros países con mayores índices de desarrollo humano? 
 
+Veamos el siguiente gráfico, obtenidos con datos dispuestos por el Foro Económico Mundial(FMI) en 2020, en relación a la movilidad social en el mundo, 
 
+Contexto internacional>
+
+</p>
+<p align="center">
+
+  <img src="images/movilidad_social_mundo.png" width =400 height =300/>
+
+</p>
 
 ¿Qué es la movilidad social?Es el movimiento o desplazamiento que efectúan los individuos, las familias o los grupos sociales dentro de un determinado sistema socioeconómico.>
 
@@ -407,6 +416,6 @@ ggplot(ms_edu, aes(factor(educ), factor(educ_padre))) + geom_point(aes(size = fa
 
 <p align="center">
 
-  <img src="images/regresion_1.png" width=400 height=750/>
+  <img src="images/regresion_1.png" width=300 height=600/>
 
 </p>
