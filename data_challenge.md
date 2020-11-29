@@ -1,17 +1,11 @@
 ---
 title: "Movilidad Social Intergeneracional en México"
-date: "11/28/2020"
-output: 
-   html_document:
-    df_print: paged
-    rows.print: 5
-    fig_width: 5 
-    fig_height: 3
-
 ---
 
-
+<div alig='center'>
 ![](images/thumbnail.png?raw=true)
+
+</div>
 
 Estudia, esfuerzáte y trabaja, es lo que normalmente la gente recomienda como la combinación mágica para ascender en la escala social.  
 
