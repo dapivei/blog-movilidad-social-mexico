@@ -2,7 +2,7 @@
 title: "Movilidad Social Intergeneracional en México"
 ---
 
-> _Estudia, esfuerzáte,trabaja y triunfarás!_ 
+> _Estudia, esfuerzáte, trabaja y triunfarás!_ 
 
 # (In)movilidad social en México
 
