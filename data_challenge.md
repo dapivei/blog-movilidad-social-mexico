@@ -18,12 +18,12 @@ _¡Estudia, esfuerzáte y triunfarás! Los pobres son pobres porque quieren. Al 
 
 Veamos el siguiente gráfico, obtenidos con datos dispuestos por el Foro Económico Mundial(FMI) en 2020, en relación a la movilidad social en el mundo, 
 
-Contexto internacional>
+Contexto internacional
 
-</p>
+
 <p align="center">
 
-  <img src="images/movilidad_social_mundo.png" width =400 height =300/>
+  <img src="images/movilidad_social_mundo.png" width =500 height =400/>
 
 </p>
 
@@ -73,15 +73,6 @@ La persistencia en el nivel de pobreza de origen es mayor entre las mujeres que 
 
 
 Es indispensable lograr revertir esta situación.
-
-Contexto internacional>
-
-</p>
-<p align="center">
-
-  <img src="images/movilidad_social_mundo.png" />
-
-</p>
 
 
 
@@ -416,6 +407,6 @@ ggplot(ms_edu, aes(factor(educ), factor(educ_padre))) + geom_point(aes(size = fa
 
 <p align="center">
 
-  <img src="images/regresion_1.png" width=300 height=600/>
+  <img src="images/regresion_1.png" width=400 height=700/>
 
 </p>
