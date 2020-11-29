@@ -2,11 +2,10 @@
 title: "Movilidad Social Intergeneracional en México"
 ---
 
-<div alig='center'>
 
 ![Branching](https://github.com/dapivei/blog-movilidad-social-mexico/blob/main/images/thumbnail.png)
 
-</div>
+
 
 Estudia, esfuerzáte y trabaja, es lo que normalmente la gente recomienda como la combinación mágica para ascender en la escala social.  
 
