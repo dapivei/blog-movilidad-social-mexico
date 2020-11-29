@@ -14,11 +14,12 @@ title: "Movilidad Social Intergeneracional en México"
 
 
 
+_¡Estudia, esfuerzáte y triunfarás! Los pobres son pobres porque quieren. Al que madruga, Dios le ayuda._ Todos hemos escuchado alguna vez comentarios como los anteriores. Incluso, en algunas ocasiones, quizá también fuimos los que vertimos este tipo de comentarios, puesto que, bajo la premisa de que vivimos en sociedades justas y meritócraticas, parecería ser que basta ser una persona constantes, perseverante, trabajadora y estudiosa para ascender en la escala social. Sin embargo, ¿es esto lo que sucede en realidad?
 
-Estudia, esfuerzáte y trabaja, es lo que normalmente la gente recomienda como la combinación mágica para ascender en la escala social.  
 
-¿Qué es la movilidad social?
-Es el movimiento o desplazamiento que efectúan los individuos, las familias o los grupos sociales dentro de un determinado sistema socioeconómico. 
+
+¿Qué es la movilidad social?Es el movimiento o desplazamiento que efectúan los individuos, las familias o los grupos sociales dentro de un determinado sistema socioeconómico.>
+
 
 Las sociedades deben tender a tener una movilidad social alta. Esto significaría que las personas que se esfuercen y tengan méritos, pueden mejorar su calidad de vida y subir en la escala social. Por el contrario, una sociedad con movilidad social baja genera pocas esperanzas de progreso para sus miembros, pues las personas tienden a retener el estatus social de sus antepasados sin importar el esfuerzo y logros personales.
 
@@ -64,9 +65,9 @@ La persistencia en el nivel de pobreza de origen es mayor entre las mujeres que 
 
 Es indispensable lograr revertir esta situación.
 
-Contexto internacional
+Contexto internacional>
 
-
+</p>
 <p align="center">
 
   <img src="images/movilidad_social_mundo.png" />
