@@ -28,18 +28,16 @@ Veamos el siguiente gráfico, obtenido con datos dispuestos por el Foro Económi
 </p>
 
 
-De acuerdo con esta gráfica, en ningún lugar del mundo existe movilidad social perfecta; es decir, el ideal de que todo individuo puede acceder a un mejor nivel de vida a partir de su  esfuerzo propio, sin importar su origen socioeconómico, no se observa. Incluso en países como Dinamarca, el país con mayor movilidad social (*85.2/100*), los resultados de vida de las personas parecen no ser producto exclusivo de sus esfuerzos y méritos individuales. 
+De acuerdo con esta gráfica, en ningún lugar del mundo existe movilidad social perfecta; es decir, el ideal de que todo individuo puede acceder a un mejor nivel de vida a partir de su propio esfuerzo, sin importar su origen socioeconómico, no se observa. Incluso en países como Dinamarca, el país con mayor movilidad social (*85.2/100*), los resultados de vida de las personas parecen no ser producto exclusivo de sus esfuerzos y méritos individuales. 
 
-Ahora bien, concentrándonos en el caso mexicano, observamos que México ocupa el puesto 58 de 82 países, en términos de su capacidad de movilidad social. Esto quiere decir que entre los países incluidos en el índice, México es uno de los países con menor movilidad social: los mexicanos que nacen pobres (o ricos), tienden a retener el estatus social de sus antepasados, independientemente de su nivel de esfuerzo.
+Ahora bien, concentrándonos en el caso mexicano, observamos que México ocupa el puesto 58 entre 82 países, en términos de su capacidad de movilidad social. Esto quiere decir que entre los países incluidos en el índice, México es uno de los países con menor movilidad social: los mexicanos que nacen pobres (o ricos), tienden a retener su estatus social de origen, independientemente de su nivel de esfuerzo. ¡Continuemos explorando un poco más a fondo el caso en México!
 
+Gracias a la conjunción de esfuerzos del Instituto Nacional de Estadística y Geografía (INEGI), el Centro de Estudios Espinosa Yglesias (CEEY) y la Fundación Espinosa Rugarcía, I.B.P. (ESRU), en México contamos, desde 2006, con la Encuesta ESRU-EMOVI. A través de esta encuesta, en México existen estudios robustos sobre la movilidad social intergeneracional: correlación existente entre entre la posición económica de una persona con respecto a la de sus progenitores. En particular, el INEGI, a través del Módulo de Movilidad Social Intergeneracional (MMSI), en 2016 presentó información considerando las características sociodemográficas de la población de 25 a 64 años de edad, sus niveles educativos y ocupacionales, a partir de su situación socioeconómica de origen, es decir, cuando tenían 14 años de edad. 
 
-¿Qué es la movilidad social intergeneracional?
-Es un parámetro que mide la correlación entre la posición económica de una persona con respecto a la de sus progenitores. Se trata de los ascensos y descensos en la escala social que se dan entre padres (origen) e hijos (destino). Generalmente, se estudia comparando la posición de los padres -normalmente según las ocupaciones- con la de sus hijos.
+De la revisión de distintas estudios llevados a cabo con la información recabada en estas encuestas, se encuenta en general que México presenta un reto muy grande esta dimensión: al menos 7 de cada 10 mexicanos que nacen en el peldaño más bajo de la escalera socioeconómica del país, no logran superar la condición de pobreza durante su vida (Informe de Movilidad Social,  2019 ). Más preocupante aún,  este hallazgo se ha mantenido casi inalterado desde hace 15 años, fecha a partir de la cuál se cuenta con esta Encuesta.
 
-¿Cómo se mide?
-Se han efectuado varios esfuerzos para lograr una medición robusta de la movilidad social intergeneracional:
-En 2016, el Instituto Nacional de Estadística y Geografía (INEGI), a través del Módulo de Movilidad Social Intergeneracional (MMSI), presentó información considerando las características sociodemográficas de la población de 25 a 64 años de edad, sus niveles educativos y ocupacionales, a partir de su situación socioeconómica de origen, es decir, cuando tenían 14 años de edad. Para desarrollar la medición, el Instituto comparó el origen y el destino de los individuos en tres dimensiones: educativa, ocupacional y económica.
-CEEY
+que el centro de estudios ha levantado la encuesta. En la gráfica de abajo, construida con un indice de riqueza apartir de la ESRU-EMOVI 2017, se observa que el 40% de las personas que nacieron en el quintil 1, el estrato más bajo de riqueza, permanece ahí en su vida adulta, y que solo 4% logra llegar al estrato más alto. Por último, otra conclusión en el reporte del CEEY que confirma la debilidad de la movilidad social en México es que los hijos de padres en la clase media tienen más posibilidades de caer hacia los estratos más desfavorecidos que de ascender en la escala de riqueza.
+
 
 ¿Cómo lograr una mayor movilidad social intergeneracional?
 A través de la igualdad de oportunidades. 
@@ -190,105 +188,6 @@ Recientemente el autor planteo esta pregunta en su La movilidad social el movimi
 
 
 
-```{r echo=FALSE}
-
-vtree(props_quintiles_df, c("quintil_or", "quintil_des"), 
-   fillcolor = c( quintil_or = "#83bdc0", quintil_des = "#f7c9b6"),
-   labelvar=c(quintil_or="Quintil de Origen", quintil_des='Quintil de Destino'),
-   horiz = TRUE,
-   shownodelabels=FALSE,
-   text=list(quintil_or=c("1"="\n*Quintil 1*", 
-                    "2"="\n*Quintil 2*",
-                    "3"="\n*Quintil 3*",
-                    "4"="\n*Quintil 4*",
-                    "5"="\n*Quintil 5*"),
-             quintil_des=c("1"="\n*Quintil 1*", 
-                    "2"="\n*Quintil 2*",
-                    "3"="\n*Quintil 3*",
-                    "4"="\n*Quintil 4*",
-                    "5"="\n*Quintil 5*")),
-   keep = list(quintil_or= c("1", "5")
-               )
-)
-```
-
-
-
-```{r echo=FALSE}
-ms_edu <- movilidad_social %>% drop_na(educ_padre)
-ms_edu <- ms_edu %>% drop_na(educ)
-
-```
-
-
-```{r echo=FALSE}
-props_quintiles_edu <- xtabs(factor~educ+educ_padre, data=ms_edu)
-
-props_quintiles_edu_df <- data.frame(props_quintiles_edu)
-props_quintiles_edu_df <- props_quintiles_edu_df[rep(row.names(props_quintiles_edu_df), props_quintiles_edu_df$Freq), 1:2]
-```
-
-
-
-```{r echo=FALSE}
-prop_education<-crosstab(
-  ms_edu,
-  educ,
-  educ_padre,
-  factor,
-  remove = "",
-  n = TRUE,
-  pct_type = "row",
-  format = "wide",
-  unwt_n = FALSE
-)
-#write.csv(prop_education,"educacion_movilidad.csv", row.names = FALSE)
-```
-
-
-
-```{r}
-ms_edu_madre <- movilidad_social %>% drop_na(educ_madre)
-ms_edu_madre <- ms_edu_madre %>% drop_na(educ)
-```
-
-
-```{r echo=FALSE}
-props_edu_madre <- xtabs(factor~educ+educ_madre, data=ms_edu_madre)
-
-props_edu_madre_df <- data.frame(props_edu_madre)
-props_edu_madre_df <- props_edu_madre_df[rep(row.names(props_edu_madre_df), props_edu_madre_df$Freq), 1:2]
-```
-
-
-
-```{r echo=FALSE}
-prop_education_madre<-crosstab(
-  ms_edu,
-  educ,
-  educ_madre,
-  factor,
-  remove = "",
-  n = TRUE,
-  pct_type = "row",
-  format = "wide",
-  unwt_n = FALSE
-)
-write.csv(prop_education_madre,"educacion_movilidad_madre.csv", row.names = FALSE)
-```
-
-
-
-```{r echo=FALSE}
-ggplot(ms_edu, aes(factor(educ), factor(educ_padre))) + geom_point(aes(size = factor), colour = "#83bdc0") + theme_minimal() + labs(x ="Educación del hijo", y ="Educación del Padre", title ="Movilidad Educacional Intergeneracional", caption ="Fuente: Elaboración propio con base en la Encuesta ESRU-EMOVI 2017") + scale_size_continuous(range=c(1,10), name='Conteo')  
-
-
-```
-
-
-
-
-
 ## Movilidad Educacional Intergeneracional
 
 <div align='center'>
@@ -403,7 +302,11 @@ ggplot(ms_edu, aes(factor(educ), factor(educ_padre))) + geom_point(aes(size = fa
 </table>
 
 </div>
-# Regresión Rafa
+
+# Descripción breve de modelo
+# Resultados
+
+> Descripción perfiles
 
 
 <p align="center">
