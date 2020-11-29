@@ -3,7 +3,7 @@
 ***
 
 
-A propósito del Data Challenge de la materia de Econometría de la Maestría en Economía Aplicada, se desarrolló el presente repositrio y el [Blog de Movilidad Social en México](https://dapivei.github.io/blog-movilidad-social-mexico/data_challenge).
+A propósito del Data Challenge de la materia de Econometría impartida en la Maestría en Economía Aplicada de ITAM, se desarrolló el presente repositorio y el [Blog de Movilidad Social en México](https://dapivei.github.io/blog-movilidad-social-mexico/data_challenge).
 
 
 <p align="center">
