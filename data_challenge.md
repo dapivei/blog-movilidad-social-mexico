@@ -4,7 +4,7 @@ title: "Movilidad Social Intergeneracional en México"
 
 <div alig='center'>
 
-![](images/thumbnail.png?raw=true)
+![Branching](https://github.com/dapivei/blog-movilidad-social-mexico/blob/main/images/thumbnail.png)
 
 </div>
 
