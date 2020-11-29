@@ -13,10 +13,12 @@ title: "Movilidad Social Intergeneracional en México"
 </p>
 
 
+<div align='justify'>
+
 
 _¡Estudia, esfuerzáte y triunfarás! Los pobres son pobres porque quieren. Al que madruga, Dios le ayuda._ Todos hemos escuchado alguna vez comentarios como los anteriores. Incluso, en ocasiones, quizá también fuimos los que vertimos este tipo de comentarios.  ¿Qué tanta veracidad existe en los enunciados anteriores? Si partimos de la premisa de que vivimos en sociedades justas y meritócraticas, los enunciados anteriores podrían ser verídicos: entonces, bastaría ser personas constantes, perseverantes, trabajadoras y estudiosas para ascender a los estratos económicos más altos y privilegiados de la sociedad; y, viceversa, ser personas "flojas", para descender a los percentiles ecónomicos más bajos. Sin embargo, ¿se observa esto en la realidad? Quizá no en México, ¿pero sí en otros países con mayores índices de desarrollo humano? 
 
-Veamos el siguiente gráfico, obtenido con datos dispuestos por el Foro Económico Mundial(FMI) en 2020, en relación a la movilidad social, entendida como el movimiento (hacia arriba o abajo) de las personas, familias y hogares dentro o a través de distintos estratos sociales, en el mundo. En el eje de las $x$ tenemos el *ranking* (de mayor a menor) de los países de acuerdo con sus índices de movilidad social. En el eje de las *y*, tenemos el puntaje de movilidad social por país (del 0 al 100); dónde 100 significa movilidad perfecta y cero, la inexistencia de movilidad social. 
+Veamos el siguiente gráfico, obtenido con datos dispuestos por el Foro Económico Mundial(FMI) en 2020, en relación a la movilidad social, entendida como el movimiento (hacia arriba o abajo) de las personas, familias y hogares dentro o a través de distintos estratos sociales, en el mundo. En el eje de las *x* tenemos el *ranking* (de mayor a menor) de los países de acuerdo con sus índices de movilidad social. En el eje de las *y*, tenemos el puntaje de movilidad social por país (del 0 al 100); dónde 100 significa movilidad perfecta y cero, la inexistencia de movilidad social. 
 
 
 <p align="center">
@@ -26,9 +28,11 @@ Veamos el siguiente gráfico, obtenido con datos dispuestos por el Foro Económi
 </p>
 
 
-De acuerdo con esta gráfica, en ningún lugar del mundo existe movilidad social perfecta; en ningún lugar los resultados de vida de las personas son independientes de los resultados de vida de sus ascendientes. Así, parece ser que ni en Dinamarca, país con mayor movilidad social (*85.2/100*), los resultados de vida de las personas son producto exclusivo de sus esfuerzos y méritos individuales. 
+De acuerdo con esta gráfica, en ningún lugar del mundo existe movilidad social perfecta; es decir, el ideal de que todo individuo puede acceder a un mejor nivel de vida a partir de su  esfuerzo propio, sin importar su origen socioeconómico, no se observa. Incluso en países como Dinamarca, el país con mayor movilidad social (*85.2/100*), los resultados de vida de las personas parecen no ser producto exclusivo de sus esfuerzos y méritos individuales. 
 
-Ahora bien, concentrándonos en el caso mexicano, observamos que México ocupa el puesto 58 (de 82 países), en términos de su capacidad de movildiad social intergeneracional.  
+Ahora bien, concentrándonos en el caso mexicano, observamos que México ocupa el puesto 58 de 82 países, en términos de su capacidad de movilidad social. Esto quiere decir que entre los países incluidos en el índice, México es uno de los países con menor movilidad social: los mexicanos que nacen pobres (o ricos), tienden a retener el estatus social de sus antepasados, independientemente de su nivel de esfuerzo.
+
+
 ¿Qué es la movilidad social intergeneracional?
 Es un parámetro que mide la correlación entre la posición económica de una persona con respecto a la de sus progenitores. Se trata de los ascensos y descensos en la escala social que se dan entre padres (origen) e hijos (destino). Generalmente, se estudia comparando la posición de los padres -normalmente según las ocupaciones- con la de sus hijos.
 
@@ -407,3 +411,5 @@ ggplot(ms_edu, aes(factor(educ), factor(educ_padre))) + geom_point(aes(size = fa
   <img src="images/regresion_1.png" width=400 height=700/>
 
 </p>
+
+</div>
