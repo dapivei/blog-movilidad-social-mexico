@@ -405,72 +405,8 @@ ggplot(ms_edu, aes(factor(educ), factor(educ_padre))) + geom_point(aes(size = fa
 # Regresión Rafa
 
 
+<p align="center">
 
-<table border="0" width="*">
-<tr><td colspan=5><hr></td></tr>
-<tr><td>            </td><td>         (1)              </td><td>         (2)              </td><td>         (3)              </td><td>         (4)              </td></tr>
-<tr><td>            </td><td> quintil_des              </td><td> quintil_des              </td><td> quintil_des              </td><td> quintil_des              </td></tr>
-<tr><td colspan=5><hr></td></tr>
-<tr><td>quintil_des </td><td>                          </td><td>                          </td><td>                          </td><td>                          </td></tr>
-<tr><td>anesc_ent   </td><td>       0.138<sup>***</sup></td><td>       0.109<sup>***</sup></td><td>       0.117<sup>***</sup></td><td>      0.0901<sup>***</sup></td></tr>
-<tr><td>            </td><td>     (39.54)              </td><td>     (25.24)              </td><td>     (26.25)              </td><td>     (19.24)              </td></tr>
-<tr><td colspan=5>&nbsp;</td></tr>
-<tr><td>anesc_pad   </td><td>                          </td><td>      0.0303<sup>***</sup></td><td>      0.0343<sup>***</sup></td><td>      0.0157<sup>***</sup></td></tr>
-<tr><td>            </td><td>                          </td><td>     (10.28)              </td><td>     (11.65)              </td><td>      (5.19)              </td></tr>
-<tr><td colspan=5>&nbsp;</td></tr>
-<tr><td>anesc_mad   </td><td>                          </td><td>      0.0349<sup>***</sup></td><td>      0.0406<sup>***</sup></td><td>      0.0205<sup>***</sup></td></tr>
-<tr><td>            </td><td>                          </td><td>     (11.36)              </td><td>     (12.68)              </td><td>      (6.07)              </td></tr>
-<tr><td colspan=5>&nbsp;</td></tr>
-<tr><td>mujer       </td><td>                          </td><td>     -0.0878<sup>**</sup> </td><td>     -0.0566              </td><td>     -0.0418              </td></tr>
-<tr><td>            </td><td>                          </td><td>     (-2.94)              </td><td>     (-1.88)              </td><td>     (-1.34)              </td></tr>
-<tr><td colspan=5>&nbsp;</td></tr>
-<tr><td>casado      </td><td>                          </td><td>       0.266<sup>***</sup></td><td>                          </td><td>                          </td></tr>
-<tr><td>            </td><td>                          </td><td>      (8.99)              </td><td>                          </td><td>                          </td></tr>
-<tr><td colspan=5>&nbsp;</td></tr>
-<tr><td>edad        </td><td>                          </td><td>                          </td><td>      0.0245<sup>*</sup>  </td><td>      0.0568<sup>***</sup></td></tr>
-<tr><td>            </td><td>                          </td><td>                          </td><td>      (2.47)              </td><td>      (5.41)              </td></tr>
-<tr><td colspan=5>&nbsp;</td></tr>
-<tr><td>edad2       </td><td>                          </td><td>                          </td><td>  -0.0000707              </td><td>   -0.000317<sup>**</sup> </td></tr>
-<tr><td>            </td><td>                          </td><td>                          </td><td>     (-0.64)              </td><td>     (-2.72)              </td></tr>
-<tr><td colspan=5>&nbsp;</td></tr>
-<tr><td>rururb      </td><td>                          </td><td>                          </td><td>                          </td><td>      -0.438<sup>***</sup></td></tr>
-<tr><td>            </td><td>                          </td><td>                          </td><td>                          </td><td>     (-9.82)              </td></tr>
-<tr><td colspan=5>&nbsp;</td></tr>
-<tr><td>2.quintil_or</td><td>                          </td><td>                          </td><td>                          </td><td>       0.413<sup>***</sup></td></tr>
-<tr><td>            </td><td>                          </td><td>                          </td><td>                          </td><td>      (8.45)              </td></tr>
-<tr><td colspan=5>&nbsp;</td></tr>
-<tr><td>3.quintil_or</td><td>                          </td><td>                          </td><td>                          </td><td>       0.674<sup>***</sup></td></tr>
-<tr><td>            </td><td>                          </td><td>                          </td><td>                          </td><td>     (12.87)              </td></tr>
-<tr><td colspan=5>&nbsp;</td></tr>
-<tr><td>4.quintil_or</td><td>                          </td><td>                          </td><td>                          </td><td>       1.138<sup>***</sup></td></tr>
-<tr><td>            </td><td>                          </td><td>                          </td><td>                          </td><td>     (19.79)              </td></tr>
-<tr><td colspan=5>&nbsp;</td></tr>
-<tr><td>5.quintil_or</td><td>                          </td><td>                          </td><td>                          </td><td>       1.776<sup>***</sup></td></tr>
-<tr><td>            </td><td>                          </td><td>                          </td><td>                          </td><td>     (25.12)              </td></tr>
-<tr><td colspan=5><hr></td></tr>
-<tr><td>cut1        </td><td>                          </td><td>                          </td><td>                          </td><td>                          </td></tr>
-<tr><td>_cons       </td><td>       0.885<sup>***</sup></td><td>       1.048<sup>***</sup></td><td>       1.980<sup>***</sup></td><td>       2.797<sup>***</sup></td></tr>
-<tr><td>            </td><td>     (18.78)              </td><td>     (17.31)              </td><td>      (8.87)              </td><td>     (11.75)              </td></tr>
-<tr><td colspan=5><hr></td></tr>
-<tr><td>cut2        </td><td>                          </td><td>                          </td><td>                          </td><td>                          </td></tr>
-<tr><td>_cons       </td><td>       1.550<sup>***</sup></td><td>       1.750<sup>***</sup></td><td>       2.688<sup>***</sup></td><td>       3.598<sup>***</sup></td></tr>
-<tr><td>            </td><td>     (32.52)              </td><td>     (28.71)              </td><td>     (11.97)              </td><td>     (14.99)              </td></tr>
-<tr><td colspan=5><hr></td></tr>
-<tr><td>cut3        </td><td>                          </td><td>                          </td><td>                          </td><td>                          </td></tr>
-<tr><td>_cons       </td><td>       2.137<sup>***</sup></td><td>       2.374<sup>***</sup></td><td>       3.320<sup>***</sup></td><td>       4.313<sup>***</sup></td></tr>
-<tr><td>            </td><td>     (43.31)              </td><td>     (37.68)              </td><td>     (14.71)              </td><td>     (17.82)              </td></tr>
-<tr><td colspan=5><hr></td></tr>
-<tr><td>cut4        </td><td>                          </td><td>                          </td><td>                          </td><td>                          </td></tr>
-<tr><td>_cons       </td><td>       2.830<sup>***</sup></td><td>       3.106<sup>***</sup></td><td>       4.061<sup>***</sup></td><td>       5.144<sup>***</sup></td></tr>
-<tr><td>            </td><td>     (54.01)              </td><td>     (46.82)              </td><td>     (17.77)              </td><td>     (20.93)              </td></tr>
-<tr><td colspan=5><hr></td></tr>
-<tr><td><i>N</i>    </td><td>       17639              </td><td>       13790              </td><td>       13790              </td><td>       12847              </td></tr>
-<tr><td colspan=5><hr></td></tr>
-<tr><td colspan=5>
-<i>t</i> statistics in parentheses
-<br /><sup>*</sup> <i>p</i> < 0.05, <sup>**</sup> <i>p</i> < 0.01, <sup>***</sup> <i>p</i> < 0.001
-</td></tr>
-</table>
+  <img src="images/regresion_1.png"/>
 
-
-
+</p>
