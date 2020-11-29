@@ -13,10 +13,15 @@ title: "Movilidad Social Intergeneracional en México"
 </p>
 
 
+
+
+>_¡Estudia, esfuerzáte y triunfarás! Los pobres son pobres porque quieren. Al que >madruga, Dios le ayuda._ 
+
 <div align='justify'>
 
+Todos hemos escuchado alguna vez comentarios como los anteriores. Incluso, en ocasiones, quizá también fuimos los que vertimos este tipo de comentarios.  ¿Qué tanta veracidad existe en los enunciados anteriores? Si partimos de la premisa de que vivimos en sociedades justas y meritócraticas, los enunciados anteriores podrían ser verídicos: entonces, bastaría ser personas constantes, perseverantes, trabajadoras y estudiosas para ascender a los estratos económicos más altos y privilegiados de la sociedad; y, viceversa, ser personas "flojas", para descender a los percentiles ecónomicos más bajos. Sin embargo, ¿se observa esto en la realidad? Quizá no en México, ¿pero sí en otros países con mayores índices de desarrollo humano? 
 
-_¡Estudia, esfuerzáte y triunfarás! Los pobres son pobres porque quieren. Al que madruga, Dios le ayuda._ Todos hemos escuchado alguna vez comentarios como los anteriores. Incluso, en ocasiones, quizá también fuimos los que vertimos este tipo de comentarios.  ¿Qué tanta veracidad existe en los enunciados anteriores? Si partimos de la premisa de que vivimos en sociedades justas y meritócraticas, los enunciados anteriores podrían ser verídicos: entonces, bastaría ser personas constantes, perseverantes, trabajadoras y estudiosas para ascender a los estratos económicos más altos y privilegiados de la sociedad; y, viceversa, ser personas "flojas", para descender a los percentiles ecónomicos más bajos. Sin embargo, ¿se observa esto en la realidad? Quizá no en México, ¿pero sí en otros países con mayores índices de desarrollo humano? 
+</div>
 
 Veamos el siguiente gráfico, obtenido con datos dispuestos por el Foro Económico Mundial(FMI) en 2020, en relación a la movilidad social, entendida como el movimiento (hacia arriba o abajo) de las personas, familias y hogares dentro o a través de distintos estratos sociales, en el mundo. En el eje de las *x* tenemos el *ranking* (de mayor a menor) de los países de acuerdo con sus índices de movilidad social. En el eje de las *y*, tenemos el puntaje de movilidad social por país (del 0 al 100); dónde 100 significa movilidad perfecta y cero, la inexistencia de movilidad social. 
 
@@ -318,4 +323,3 @@ Recientemente el autor planteo esta pregunta en su La movilidad social el movimi
 
 </p>
 
-</div>
