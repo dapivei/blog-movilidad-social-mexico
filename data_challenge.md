@@ -303,8 +303,11 @@ Recientemente el autor planteo esta pregunta en su La movilidad social el movimi
 
 </div>
 
+
 # Descripción breve de modelo
+
 # Resultados
+
 
 > Descripción perfiles
 
