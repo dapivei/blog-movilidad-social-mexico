@@ -6,7 +6,7 @@ title: "Movilidad Social Intergeneracional en México"
 
 <p align="center">
 
-  <img src="../images/thumbnail.png" />
+  <img src="images/thumbnail.png" />
 
 </p>
 
