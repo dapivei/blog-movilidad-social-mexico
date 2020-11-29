@@ -407,6 +407,6 @@ ggplot(ms_edu, aes(factor(educ), factor(educ_padre))) + geom_point(aes(size = fa
 
 <p align="center">
 
-  <img src="images/regresion_1.png"/>
+  <img src="images/regresion_1.png" width=400 height=750/>
 
 </p>
