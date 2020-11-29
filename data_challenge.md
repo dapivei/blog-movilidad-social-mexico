@@ -1,6 +1,5 @@
 ---
 title: "Movilidad Social Intergeneracional en México"
-date: "11/28/2020"
 output: 
    html_document:
     df_print: paged
