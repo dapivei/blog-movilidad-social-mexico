@@ -4,7 +4,7 @@ title: "Movilidad Social Intergeneracional en México"
 
 
 
-![](../images/thumbnail.png)
+![](/images/thumbnail.png)
 
 
 Estudia, esfuerzáte y trabaja, es lo que normalmente la gente recomienda como la combinación mágica para ascender en la escala social.  
