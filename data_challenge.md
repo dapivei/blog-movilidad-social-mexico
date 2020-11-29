@@ -15,7 +15,7 @@ title: "Movilidad Social Intergeneracional en México"
 
 
 
-> _¡Estudia, esfuerzáte y triunfarás! Los pobres son pobres porque quieren. Al que >madruga, Dios le ayuda._ 
+> _¡Estudia, esfuerzáte y triunfarás! Los pobres son pobres porque quieren. Al que madruga, Dios le ayuda._ 
 
 <div align='justify'>
 
