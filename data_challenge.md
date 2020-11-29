@@ -3,6 +3,7 @@ title: "Movilidad Social Intergeneracional en México"
 ---
 
 <div alig='center'>
+
 ![](images/thumbnail.png?raw=true)
 
 </div>
