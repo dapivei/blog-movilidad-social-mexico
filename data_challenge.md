@@ -54,7 +54,15 @@ Ahora bien, restringiéndonos al caso mexicano, observamos que México ocupa el 
 Gracias a la conjunción de esfuerzos del Instituto Nacional de Estadística y Geografía (INEGI), el Centro de Estudios Espinosa Yglesias (CEEY) y la Fundación Espinosa Rugarcía, I.B.P. (ESRU), en México contamos, desde 2006, con la Encuesta ESRU-EMOVI y desde el 2016 con el Módulo de Movilidad Social Intergeneracional (MMSI). Estos datos han permitido la medición y seguimiento de la movilidad social en México a lo largo del tiempo. En general, los hallazgos del seguimiento de esta información indican que México presenta un reto muy grande en esta dimensión, puesto que al menos 7 de cada 10 mexicanos que nacen en el peldaño más bajo de la escalera socioeconómica del país, permanecen en este peldaño (Informe de Movilidad Social, 2019 ). Más preocupante aún, este hallazgo se ha mantenido casi inalterado desde hace 15 años, fecha a partir de la cual se cuenta con esta Encuesta.
 
 En las gráficas presentadas a continuación, obtenidas a partir del índice de riqueza elaborado por la ESRU-EMOVI 2017, se observa que cerca de 47 por ciento de las personas que nacen en el primer quintil, el estrato más bajo de riqueza, permanecen en este estrato durante toda su vida (a este fenómeno se le llama mundialmente como sticky floors), y solo cuatro por ciento logra insertarse dentro del estrato más alto. De forma análoga, alrededor de 54 por ciento de las personas que nacen en el peldaño más alto del estrato social, permanecen en este estrato durante toda su vida (fenómeno conocido como sticky ceilings); y solamente 2.3 por ciento, caen hasta el último peldaño del estrato social. Además, conforme se corrobora también los gráficos siguientes, el reporte del CEEY indica que los hijos de padres pertenecientes a la clase media (quintiles dos y tres) tienen mayor probabilidad de descender a los estratos más desfavorecidos en lugar de ascender.
+</div>
 
+<p align="center">
+
+  <img src="images/quintiles_ms.png" width =600 height =450/>
+
+</p>
+
+<div align='justify'>
 Patricio Solis,  empleando el MMSI 2016, confirma la falta de impulso colectivo en  México, a favor de la movilidad social ascendente para reducir los niveles de pobreza (fenómeno que sí se ha observado en otros países latinoamericanos con niveles similares de desigualdad del ingreso, como en el caso de Chile) y encuentra que la mayoría permanece en un estado de inmovilidad (32.3 por ciento) y que menos de 4 por ciento experimentó una movilidad ascendente de largo alcance.  Finalmente, el mismo autor encuentra que la movilidad intergeneracional socioeconómica en México es considerablemente menor en comparación con una muestra de 12 países en etapa de industrialización temprana.
 
 </div>
