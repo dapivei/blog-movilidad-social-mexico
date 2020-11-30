@@ -8,7 +8,7 @@ title: "Movilidad Social Intergeneracional en México"
 
 <p align="center">
 
-  <img src="images/thumbnail.png"  width=200 height =250/>
+  <img src="images/thumbnail.png"  width=250 height =350/>
 
 </p>
 
@@ -16,16 +16,22 @@ title: "Movilidad Social Intergeneracional en México"
 
 
 
-<div align='justify'>
+<div align= 'center'>
+  
 
-“¡Estudia, esfuérzate y triunfarás! Los pobres son pobres porque quieren. Al que madruga, Dios le ayuda.”
+¡Estudia, esfuérzate y triunfarás! 
 
+Los pobres son pobres porque quieren. 
+
+Al que madruga, Dios le ayuda.
 
 </div>
+
 
 <div align='justify'>
 
 Todos hemos escuchado alguna vez comentarios como los anteriores. Incluso, en ocasiones, quizá también fuimos los que vertimos este tipo de comentarios. ¿Qué tanta veracidad existe en los enunciados anteriores? Si partimos de la premisa de que vivimos en sociedades justas y meritocráticas, los enunciados anteriores podrían ser verídicos: entonces, bastaría ser personas constantes, perseverantes, trabajadoras y estudiadas para ascender a los estratos económicos más altos y privilegiados de la sociedad; y, viceversa, ser personas "flojas", para descender a los percentiles económicos más bajos. Sin embargo, ¿se observa esto en la realidad? Quizá no en México, ¿pero sí en otros países con mayores índices de desarrollo humano?
+
 Este movimiento o desplazamiento (hacia arriba o abajo) de las personas, familias y hogares dentro o a través de distintos estratos sociales, conocido como movilidad social,  es objeto de interés social: crucial para el bienestar de los individuos y la prosperidad de las sociedades en general.  En razón a ello, existen diferentes estudios, tanto a nivel mundial como nacional, que versan sobre este tema y relatan el estancamiento a nivel mundial en términos de movilidad social. Por ejemplo, en el último informe sobre movilidad social elaborado por el Banco Mundial, se encuentra que la movilidad social se ha estancado durante los últimos 30 años. Además, determina que 46 de los 50 países con las tasas más bajas de movilidad ascendente son países desarrollados.
 
 Por su parte, de acuerdo con el Índice Global de Movilidad Social (IGMS), elaborado por el Foro Económico Mundial (FMI), entre los países con mayor movilidad social se encuentran Dinamarca, Noruega y Finlandia, seguido de Suecia, Islandia, Suiza, Australia, Bélgica y Luxemburgo. En este listado, con menor nivel de movilidad social se encuentran otros países como la Federación Rusa, China, México, Brasil, Turquía, México, India y Sudáfrica, en los puestos 39º, 45º, 58º, 60º, 64º, 76º, y 77º respectivamente. En particular, en América Latina, el país con mayor movilidad social es Uruguay, seguido por Costa Rica, Chile, Ecuador, Brasil, en los puestos 35º, 44º, 47º, 57º y 60º, respectivamente; el país con menor movilidad social en la región es Guatemala, ubicado en el puesto 75º. 
