@@ -2,7 +2,7 @@
 title: "Movilidad Social Intergeneracional en México"
 ---
 
-> _Estudia, esfuerzáte, trabaja y ¿triunfarás?_ 
+>“Estudia, esfuérzate, trabaja y ¿triunfarás?”
 
 # (In)movilidad social en México
 
@@ -15,15 +15,23 @@ title: "Movilidad Social Intergeneracional en México"
 
 
 
-> _¡Estudia, esfuerzáte y triunfarás! Los pobres son pobres porque quieren. Al que madruga, Dios le ayuda._ 
 
 <div align='justify'>
 
-Todos hemos escuchado alguna vez comentarios como los anteriores. Incluso, en ocasiones, quizá también fuimos los que vertimos este tipo de comentarios.  ¿Qué tanta veracidad existe en los enunciados anteriores? Si partimos de la premisa de que vivimos en sociedades justas y meritócraticas, los enunciados anteriores podrían ser verídicos: entonces, bastaría ser personas constantes, perseverantes, trabajadoras y estudiosas para ascender a los estratos económicos más altos y privilegiados de la sociedad; y, viceversa, ser personas "flojas", para descender a los percentiles ecónomicos más bajos. Sin embargo, ¿se observa esto en la realidad? Quizá no en México, ¿pero sí en otros países con mayores índices de desarrollo humano? 
+“¡Estudia, esfuérzate y triunfarás! Los pobres son pobres porque quieren. Al que madruga, Dios le ayuda.”
+
 
 </div>
 
-Veamos el siguiente gráfico, obtenido con datos dispuestos por el Foro Económico Mundial(FMI) en 2020, en relación a la movilidad social, entendida como el movimiento (hacia arriba o abajo) de las personas, familias y hogares dentro o a través de distintos estratos sociales, en el mundo. En el eje de las *x* tenemos el *ranking* (de mayor a menor) de los países de acuerdo con sus índices de movilidad social. En el eje de las *y*, tenemos el puntaje de movilidad social por país (del 0 al 100); dónde 100 significa movilidad perfecta y cero, la inexistencia de movilidad social. 
+<div align='justify'>
+
+Todos hemos escuchado alguna vez comentarios como los anteriores. Incluso, en ocasiones, quizá también fuimos los que vertimos este tipo de comentarios. ¿Qué tanta veracidad existe en los enunciados anteriores? Si partimos de la premisa de que vivimos en sociedades justas y meritocráticas, los enunciados anteriores podrían ser verídicos: entonces, bastaría ser personas constantes, perseverantes, trabajadoras y estudiadas para ascender a los estratos económicos más altos y privilegiados de la sociedad; y, viceversa, ser personas "flojas", para descender a los percentiles económicos más bajos. Sin embargo, ¿se observa esto en la realidad? Quizá no en México, ¿pero sí en otros países con mayores índices de desarrollo humano?
+Este movimiento o desplazamiento (hacia arriba o abajo) de las personas, familias y hogares dentro o a través de distintos estratos sociales, conocido como movilidad social,  es objeto de interés social: crucial para el bienestar de los individuos y la prosperidad de las sociedades en general.  En razón a ello, existen diferentes estudios, tanto a nivel mundial como nacional, que versan sobre este tema y relatan el estancamiento a nivel mundial en términos de movilidad social. Por ejemplo, en el último informe sobre movilidad social elaborado por el Banco Mundial, se encuentra que la movilidad social se ha estancado durante los últimos 30 años. Además, determina que 46 de los 50 países con las tasas más bajas de movilidad ascendente son países desarrollados.
+
+Por su parte, de acuerdo con el Índice Global de Movilidad Social (IGMS), elaborado por el Foro Económico Mundial (FMI), entre los países con mayor movilidad social se encuentran Dinamarca, Noruega y Finlandia, seguido de Suecia, Islandia, Suiza, Australia, Bélgica y Luxemburgo. En este listado, con menor nivel de movilidad social se encuentran otros países como la Federación Rusa, China, México, Brasil, Turquía, México, India y Sudáfrica, en los puestos 39º, 45º, 58º, 60º, 64º, 76º, y 77º respectivamente. En particular, en América Latina, el país con mayor movilidad social es Uruguay, seguido por Costa Rica, Chile, Ecuador, Brasil, en los puestos 35º, 44º, 47º, 57º y 60º, respectivamente; el país con menor movilidad social en la región es Guatemala, ubicado en el puesto 75º. 
+La información antes descrita, se encuentra condensada en el siguiente gráfico. En el eje de las x tenemos el ranking (de mayor a menor) de los países de acuerdo con sus índices de movilidad social. En el eje de las y, tenemos el puntaje de movilidad social por país (del 0 al 100); donde 100 significa movilidad perfecta y cero, la inexistencia de movilidad social.
+
+</div>
 
 
 <p align="center">
@@ -32,61 +40,22 @@ Veamos el siguiente gráfico, obtenido con datos dispuestos por el Foro Económi
 
 </p>
 
+<div align='justify'>
+  
+De acuerdo con estos resultados, en ningún lugar del mundo existe movilidad social perfecta; es decir, el ideal de que todo individuo puede acceder a un mejor nivel de vida a partir de su propio esfuerzo, sin importar su origen socioeconómico, no se observa en la realidad. Incluso en países como Dinamarca, el país con mayor movilidad social (85.2/100), los resultados de vida de las personas parecen no ser producto exclusivo de sus esfuerzos y méritos individuales. De hecho, una persona nacida en una familia pobre en Dinamarca tardaría, en promedio, dos generaciones para alcanzar un ingreso medio; en otros países como Francia se requieren seis generaciones para que ocurra este movimiento y, en casos más extremos (como en Brasil o Sudáfrica), nueve generaciones.
+Ahora bien, restringiéndonos al caso mexicano, observamos que México ocupa el puesto 58 entre 82 países. Esto quiere decir que entre los países incluidos en el índice, México es uno de los países con menor movilidad social: los mexicanos que nacen pobres (o ricos), tienden a retener su estatus social de origen, independientemente de su nivel de esfuerzo. Continuemos explorando un poco más a fondo el caso en México…
 
-De acuerdo con esta gráfica, en ningún lugar del mundo existe movilidad social perfecta; es decir, el ideal de que todo individuo puede acceder a un mejor nivel de vida a partir de su propio esfuerzo, sin importar su origen socioeconómico, no se observa. Incluso en países como Dinamarca, el país con mayor movilidad social (*85.2/100*), los resultados de vida de las personas parecen no ser producto exclusivo de sus esfuerzos y méritos individuales. 
+Gracias a la conjunción de esfuerzos del Instituto Nacional de Estadística y Geografía (INEGI), el Centro de Estudios Espinosa Yglesias (CEEY) y la Fundación Espinosa Rugarcía, I.B.P. (ESRU), en México contamos, desde 2006, con la Encuesta ESRU-EMOVI y desde el 2016 con el Módulo de Movilidad Social Intergeneracional (MMSI). Estos datos han permitido la medición y seguimiento de la movilidad social en México a lo largo del tiempo. En general, los hallazgos del seguimiento de esta información indican que México presenta un reto muy grande en esta dimensión, puesto que al menos 7 de cada 10 mexicanos que nacen en el peldaño más bajo de la escalera socioeconómica del país, permanecen en este peldaño (Informe de Movilidad Social, 2019 ). Más preocupante aún, este hallazgo se ha mantenido casi inalterado desde hace 15 años, fecha a partir de la cual se cuenta con esta Encuesta.
 
-Ahora bien, concentrándonos en el caso mexicano, observamos que México ocupa el puesto 58 entre 82 países, en términos de su capacidad de movilidad social. Esto quiere decir que entre los países incluidos en el índice, México es uno de los países con menor movilidad social: los mexicanos que nacen pobres (o ricos), tienden a retener su estatus social de origen, independientemente de su nivel de esfuerzo. ¡Continuemos explorando un poco más a fondo el caso en México!
+En las gráficas presentadas a continuación, obtenidas a partir del índice de riqueza elaborado por la ESRU-EMOVI 2017, se observa que cerca de 47 por ciento de las personas que nacen en el primer quintil, el estrato más bajo de riqueza, permanecen en este estrato durante toda su vida (a este fenómeno se le llama mundialmente como sticky floors), y solo cuatro por ciento logra insertarse dentro del estrato más alto. De forma análoga, alrededor de 54 por ciento de las personas que nacen en el peldaño más alto del estrato social, permanecen en este estrato durante toda su vida (fenómeno conocido como sticky ceilings); y solamente 2.3 por ciento, caen hasta el último peldaño del estrato social. Además, conforme se corrobora también los gráficos siguientes, el reporte del CEEY indica que los hijos de padres pertenecientes a la clase media (quintiles dos y tres) tienen mayor probabilidad de descender a los estratos más desfavorecidos en lugar de ascender.
 
-Gracias a la conjunción de esfuerzos del Instituto Nacional de Estadística y Geografía (INEGI), el Centro de Estudios Espinosa Yglesias (CEEY) y la Fundación Espinosa Rugarcía, I.B.P. (ESRU), en México contamos, desde 2006, con la Encuesta ESRU-EMOVI. A través de esta encuesta, en México existen estudios robustos sobre la movilidad social intergeneracional: correlación existente entre entre la posición económica de una persona con respecto a la de sus progenitores. En particular, el INEGI, a través del Módulo de Movilidad Social Intergeneracional (MMSI), en 2016 presentó información considerando las características sociodemográficas de la población de 25 a 64 años de edad, sus niveles educativos y ocupacionales, a partir de su situación socioeconómica de origen, es decir, cuando tenían 14 años de edad. 
+Patricio Solis,  empleando el MMSI 2016, confirma la falta de impulso colectivo en  México, a favor de la movilidad social ascendente para reducir los niveles de pobreza (fenómeno que sí se ha observado en otros países latinoamericanos con niveles similares de desigualdad del ingreso, como en el caso de Chile) y encuentra que la mayoría permanece en un estado de inmovilidad (32.3 por ciento) y que menos de 4 por ciento experimentó una movilidad ascendente de largo alcance.  Finalmente, el mismo autor encuentra que la movilidad intergeneracional socioeconómica en México es considerablemente menor en comparación con una muestra de 12 países en etapa de industrialización temprana.
 
-De la revisión de distintas estudios llevados a cabo con la información recabada en estas encuestas, se encuentra en general que México presenta un reto muy grande esta dimensión: al menos 7 de cada 10 mexicanos que nacen en el peldaño más bajo de la escalera socioeconómica del país, no logran superar la condición de pobreza durante su vida (Informe de Movilidad Social,  2019 ). Más preocupante aún, este hallazgo se ha mantenido casi inalterado desde hace 15 años, fecha a partir de la cuál se cuenta con esta Encuesta.
+</div>
 
-que el centro de estudios ha levantado la encuesta. En la gráfica de abajo, construida con un indice de riqueza apartir de la ESRU-EMOVI 2017, se observa que el 40% de las personas que nacieron en el quintil 1, el estrato más bajo de riqueza, permanece ahí en su vida adulta, y que solo 4% logra llegar al estrato más alto. Por último, otra conclusión en el reporte del CEEY que confirma la debilidad de la movilidad social en México es que los hijos de padres en la clase media tienen más posibilidades de caer hacia los estratos más desfavorecidos que de ascender en la escala de riqueza.
+## La educación, ¿motor para alcanzar mayor movilidad social?
 
-
-¿Cómo lograr una mayor movilidad social intergeneracional?
-A través de la igualdad de oportunidades. 
-Implementando políticas públicas basadas, entre otros aspectos, en una educación pública universal y de calidad. 
-Fortalecer el empoderamiento de las mujeres en el logro educativo. 
-
-Motivación
-
-¿Por qué es importante?
-Resulta crucial para el bienestar de los individuos. 
-Una mayor movilidad social conducirá a una prosperidad general y a una sociedad más justa y equitativa. 
-Con llevará a un crecimiento económico incluyente y a mayor cohesión social.  
-Educación, ¿el motor de la movilidad social en México? - https://ceey.org.mx/educacion-el-motor-de-la-movilidad-social-en-mexico/
-
-
-
-
-Contexto nacional
-Realidades de la sociedad mexicana:
-7 de cada 10 mexicanos que nacen pobres, permanecerán en la pobreza durante el resto de su vida. 
-No se han presentado mejoras sustanciales en el ingreso desde hace al menos 25 años. 
-Nivel educativo alcanzado por los hijos de padres sin estudios:
-5% profesional 
-12% preparatoria
-22% secundaria
-33% primaria 
-17% primaria incompleta
-11% sin estudios
-(HACER GRAFICA)
-La persistencia en el nivel de pobreza de origen es mayor entre las mujeres que entre los hombres
-
-
-
-Es indispensable lograr revertir esta situación.
-
-
-
-
-
-
-La educación 
-
-
-Recientemente el autor planteo esta pregunta en su La movilidad social el movimiento o desplazamiento que efectúan los individuos, las familias o los grupos sociales dentro de un determinado sistema socioeconómico
+Motivada la importancia de la movilidad social y revisados los grandes desafíos, a nivel mundial y nacional, en este tema,  queda pendiente determinar cómo México podría alcanzar mayores niveles de movilidad socioeconómica. Un mecanismo multicitado en varios estudios para superar este problema es la educación como factor incidente en la movilidad social. El Banco Mundial, en su informe Movilidad Económica entre Generaciones, encuentra que las economías con una mayor movilidad educativa intergeneracional tienen más probabilidades de tener, tasas más altas de crecimiento y reducción de la pobreza. 
 
 
 
