@@ -66,6 +66,8 @@ A partir del índice de riqueza elaborado por la ESRU-EMOVI 2017, se observa que
 
 </p>
 
+A bold statement^[Imagenes estratos] 
+
 
   
 ## La educación, ¿motor para alcanzar mayor movilidad social?
