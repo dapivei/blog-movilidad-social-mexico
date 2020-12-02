@@ -14,10 +14,13 @@ A propósito del Data Challenge de la materia de Econometría impartida en la Ma
 
 
 
+Para mayor detalle sobre el desarrollo e implementación del modelo econométrico, favor remitirse al [Apéndice Estadístico](https://github.com/dapivei/blog-movilidad-social-mexico/tree/main/docs).
+
+
 Integrantes del equipo:
-+ Cynthia 
-+ Daniela Pinto Veizaga
++ Cynthia Valdivia
++ Daniela Pinto
 + Luis Fierro
 + Marisol Nava
-+ Nestor 
++ Nestor Rodríguez
 + Rafael Sandoval 
