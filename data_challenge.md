@@ -66,8 +66,6 @@ A partir del índice de riqueza elaborado por la ESRU-EMOVI 2017, se observa que
 
 </p>
 
-A bold statement^[Imagenes estratos] 
-
 
   
 ## La educación, ¿motor para alcanzar mayor movilidad social?
@@ -132,7 +130,7 @@ Las demás variables de control muestran que hay mayor probabilidad de manteners
 El modelo que se presenta en este blog puede brindarnos información del efecto de la educación en la probabilidad de que las personas mejoren su calidad de vida, entendido como la posibilidad de acceder a quintiles más altos de la distribución de la riqueza. Sin embargo, el efecto de la educación no es igual para todos, pues depende, entre otras cosas, de las características sociodemográficas de cada persona. Para ejemplificar mejor esta situación, se crearon perfiles o casos hipotéticos de personas, que se desarrollan a continuación. 
 </div>
 
-> Caso I: Juana, de Cochoapa el Grande, Guerrero
+> **Caso I: Juana, de Cochoapa el Grande, Guerrero**
 
 <p align="center">
 
@@ -151,7 +149,7 @@ Con el modelo estadístico que construimos es posible responder ambas preguntas.
 Ahora, nos preguntamos, ¿cuántos años adicionales de educación requeriría Juana para que su probabilidad de permanecer al primer quintil sea menor a 50 por ciento? Con nuestro modelo estadístico concluimos que Juana tendría que tener 20 años de educación adicionales (26 en total), para que su probabilidad de pertenecer al primer quintil se encuentre por debajo del 50 por ciento (específicamente, en 47.1 por ciento).
 </div>
 
-> Caso II: Miguel, de CDMX
+> **Caso II: Miguel, de CDMX**
 
 <p align="center">
 
@@ -162,9 +160,13 @@ Ahora, nos preguntamos, ¿cuántos años adicionales de educación requeriría J
 <div align='justify'>
   
 Un caso opuesto al de Juana, es el de Miguel, un hombre de 40 años, casado y de tez blanca, que vive en una zona muy segura de la Ciudad de México. Miguel nació en un hogar que pertenece al quintil más alto de la distribución de la riqueza; su madre tiene 24 años de educación, su padre 20, y él cuenta también con 20 años de educación. Nuevamente, nos preguntamos, ¿a qué quintil de riqueza es más probable que pertenezca Miguel? ¿Qué pasa si Miguel aumenta en un año su escolaridad?
+</div>
 
+<div align='justify'>
 El modelo nos indica que la probabilidad de que Miguel pertenezca al quintil más alto de la distribución de riqueza es de 92.7 por ciento. Asumiendo que las características de Miguel se mantienen constantes y decide cursar un diplomado con duración de un año, su probabilidad de pertenecer al 5° quintil de la distribución de riqueza aumenta en 1.22 pp y, por lo tanto, disminuye su probabilidad de pertenecer a cualquiera de los demás quintiles. 
+</div>
 
+<div align='justify'>
 Ahora, nos preguntamos, ¿cuántos años menos de educación tendría que haber tenido Miguel para que su probabilidad de permanecer en el 5° quintil fuera menor al 50 por ciento? Con nuestro modelo estadístico concluimos que Miguel tendría que tener 16 años de educación menos (solo 4 años de educación en total), para que su probabilidad de pertenecer al quintil 5° se encuentre por debajo del 50 por ciento (específicamente, en 47.7 por ciento). Aún así, independientemente de su nivel de educación, existe una probabilidad alta de que Miguel permanezca en el quintil más alto de la distribución de riqueza. 
 </div>
 
@@ -174,16 +176,17 @@ Ver (aquí)[].
 
 ## Contribuciones
 
-<div align='justify'>
 
 Este equipo se conforma por: 
 
-+ Rafael Sandoval,
++ Rafael Sandoval
 + Nestor Rodríguez
 + Marisol Nava
 + Daniela Pinto 
 + Luis Fierro
 + Cynthia Valdivia
+
+<div align='justify'>
 
 El trabajo se dividió, en términos generales, en dos grupos, uno de ellos se ocupó de desarrollar el modelo y otro de incorporar la literatura y motivación. Marisol Nava, Rafael Sandoval y Luis Fierro se encargaron del planteamiento y estimación del modelo; Daniela Pinto, Cynthia Valdivia y Nestor Rodríguez se enfocaron en desarrollar un documento base a partir de la literatura y motivación de la problemática. Como tarea especial, Daniela Pinto se encargó de la creación del blog en Github. 
 
@@ -192,7 +195,7 @@ Independientemente de esta división, de facto, todos los integrantes del equipo
 
 ## Bibliografía
 
-+ Aguilar, A. A. (2020). Notas de Microeconometría Aplicada.
++ Aguilar, A. A. (2020). [Notas de Microeconometría Aplicada](https://bookdown.org/viclzrz/notasmicro/).
 
 + Centro de Estudios Espinosa Yglesias, [“Informe Movilidad Social en México 2019. Hacia la igualdad regional de oportunidades”](https://ceey.org.mx/wp-content/uploads/2019/05/Informe-Movilidad-Social-en-México-2019.pdf). 
 + De la Torre, Rodolfo. [“Reporte de movilidad social educativa 2020. Una mirada a las diferencias regionales”](https://ceey.org.mx/reporte-movilidad-social-educativa-2020-una-mirada-a-las-diferencias-regionales/) Centro de Estudios Espinosa Yglesias. 
