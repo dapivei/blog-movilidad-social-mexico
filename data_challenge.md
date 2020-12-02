@@ -19,9 +19,8 @@ title: "Movilidad Social Intergeneracional en México"
 <p align= 'center'>
   
 
-¡Estudia, esfuérzate y triunfarás! \nLos pobres son pobres porque quieren. 
+¡Estudia, esfuérzate y triunfarás! Los pobres son pobres porque quieren. 
 
-\
 
 
 Al que madruga, Dios le ayuda.
@@ -74,7 +73,7 @@ A partir del índice de riqueza elaborado por la ESRU-EMOVI 2017, se observa que
 
 <p align="center">
 
-  <img src="images/educacion_movilidad_social.png"  width=150 height =150/>
+  <img src="images/educacion_movilidad_social.png"  width=250 height =250/>
 
 </p>
 
@@ -114,7 +113,7 @@ La primera columna de la tabla siguiente presenta la estimación del modelo Prob
 
 <p align="center">
 
-  <img src="images/efectos_marginales.png"  width=400 height =650/>
+  <img src="images/efectos_marginales.png"  width=500 height =750/>
 
 </p>
 
@@ -131,7 +130,7 @@ Las demás variables de control muestran que hay mayor probabilidad de manteners
 El modelo que se presenta en este blog puede brindarnos información del efecto de la educación en la probabilidad de que las personas mejoren su calidad de vida, entendido como la posibilidad de acceder a quintiles más altos de la distribución de la riqueza. Sin embargo, el efecto de la educación no es igual para todos, pues depende, entre otras cosas, de las características sociodemográficas de cada persona. Para ejemplificar mejor esta situación, se crearon perfiles o casos hipotéticos de personas, que se desarrollan a continuación. 
 </div>
 
-+ Caso I: Juana, de Cochoapa el Grande, Guerrero
+> Caso I: Juana, de Cochoapa el Grande, Guerrero
 
 <p align="center">
 
@@ -150,7 +149,7 @@ Con el modelo estadístico que construimos es posible responder ambas preguntas.
 Ahora, nos preguntamos, ¿cuántos años adicionales de educación requeriría Juana para que su probabilidad de permanecer al primer quintil sea menor a 50 por ciento? Con nuestro modelo estadístico concluimos que Juana tendría que tener 20 años de educación adicionales (26 en total), para que su probabilidad de pertenecer al primer quintil se encuentre por debajo del 50 por ciento (específicamente, en 47.1 por ciento).
 </div>
 
-+ Caso II: Miguel, de CDMX
+> Caso II: Miguel, de CDMX
 
 <p align="center">
 
@@ -159,6 +158,7 @@ Ahora, nos preguntamos, ¿cuántos años adicionales de educación requeriría J
 </p>
 
 <div align='justify'>
+  
 Un caso opuesto al de Juana, es el de Miguel, un hombre de 40 años, casado y de tez blanca, que vive en una zona muy segura de la Ciudad de México. Miguel nació en un hogar que pertenece al quintil más alto de la distribución de la riqueza; su madre tiene 24 años de educación, su padre 20, y él cuenta también con 20 años de educación. Nuevamente, nos preguntamos, ¿a qué quintil de riqueza es más probable que pertenezca Miguel? ¿Qué pasa si Miguel aumenta en un año su escolaridad?
 
 El modelo nos indica que la probabilidad de que Miguel pertenezca al quintil más alto de la distribución de riqueza es de 92.7 por ciento. Asumiendo que las características de Miguel se mantienen constantes y decide cursar un diplomado con duración de un año, su probabilidad de pertenecer al 5° quintil de la distribución de riqueza aumenta en 1.22 pp y, por lo tanto, disminuye su probabilidad de pertenecer a cualquiera de los demás quintiles. 
@@ -171,29 +171,40 @@ Ahora, nos preguntamos, ¿cuántos años menos de educación tendría que haber 
 Ver (aquí)[].
 
 ## Contribuciones
+
 <div align='justify'>
-Este equipo se conforma por: Rafael Sandoval, Nestor Rodríguez, Marisol Nava, Daniela Pinto, Luis Fierro y Cynthia Valdivia.
-El trabajo se dividió, en términos generales, en dos grupos, uno de ellos se ocupó de desarrollar el modelo y otro de incorporar la literatura y motivación. Marisol Nava, Rafael Sandoval y Luis Fierro se encargaron del planteamiento y estimación del modelo; Daniela Pinto, Cynthia Valdivia y Nestor Rodríguez se enfocaron en desarrollar un documento base a partir de la literatura y motivación de la problemática. Como tarea especial, Daniela Pinto se encargó de la creación del blog en Github. Independientemente de esta división, de facto, todos los integrantes del equipo contribuyeron con insumos para el proyecto general y todos estuvieron involucrados en la interpretación de coeficientes y la generación de perfiles. 
+
+Este equipo se conforma por: 
+
++ Rafael Sandoval,
++ Nestor Rodríguez
++ Marisol Nava
++ Daniela Pinto 
++ Luis Fierro
++ Cynthia Valdivia
+
+El trabajo se dividió, en términos generales, en dos grupos, uno de ellos se ocupó de desarrollar el modelo y otro de incorporar la literatura y motivación. Marisol Nava, Rafael Sandoval y Luis Fierro se encargaron del planteamiento y estimación del modelo; Daniela Pinto, Cynthia Valdivia y Nestor Rodríguez se enfocaron en desarrollar un documento base a partir de la literatura y motivación de la problemática. Como tarea especial, Daniela Pinto se encargó de la creación del blog en Github. 
+
+Independientemente de esta división, de facto, todos los integrantes del equipo contribuyeron con insumos para el proyecto general y todos estuvieron involucrados en la interpretación de coeficientes y la generación de perfiles. 
 </div>
 
 ## Bibliografía
 
 + Aguilar, A. A. (2020). Notas de Microeconometría Aplicada.
 
-+ Centro de Estudios Espinosa Yglesias, “Informe Movilidad Social en México 2019. Hacia la igualdad regional de oportunidades”. https://ceey.org.mx/wp-content/uploads/2019/05/Informe-Movilidad-Social-en-México-2019..pdf
- 
-+ De la Torre, Rodolfo. “Reporte de movilidad social educativa 2020. Una mirada a las diferencias regionales” Centro de Estudios Espinosa Yglesias. https://ceey.org.mx/reporte-movilidad-social-educativa-2020-una-mirada-a-las-diferencias-regionales/
++ Centro de Estudios Espinosa Yglesias, [“Informe Movilidad Social en México 2019. Hacia la igualdad regional de oportunidades”](https://ceey.org.mx/wp-content/uploads/2019/05/Informe-Movilidad-Social-en-México-2019.pdf). 
++ De la Torre, Rodolfo. [“Reporte de movilidad social educativa 2020. Una mirada a las diferencias regionales”](https://ceey.org.mx/reporte-movilidad-social-educativa-2020-una-mirada-a-las-diferencias-regionales/) Centro de Estudios Espinosa Yglesias. 
 
 + Greene, W. H. (2002). Econometric Analysis (5th ed.). Prentice Hall.
  
-+ Moreno M., A. Héctor. “Determinantes de la movilidad educativa intergeneracional y políticas públicas para promoverla”. Centro de Estudios Espinosa Yglesias. (2017). https://ceey.org.mx/wp-content/uploads/2018/06/07-Moreno-2017.pdf
++ Moreno M., A. Héctor. [“Determinantes de la movilidad educativa intergeneracional y políticas públicas para promoverla”](https://ceey.org.mx/wp-content/uploads/2018/06/07-Moreno-2017.pdf). Centro de Estudios Espinosa Yglesias. (2017).
  
-+ Narayan, Ambar; Van der Weide, Roy. “¿Progreso equitativo? Movilidad económica entre generaciones en todo el mundo. Panorama General”. Grupo Banco Mundial.  https://openknowledge.worldbank.org/bitstream/handle/10986/28428/211210ovSP.pdf?sequence=12&isAllowed=y
++ Narayan, Ambar; Van der Weide, Roy. [“¿Progreso equitativo? Movilidad económica entre generaciones en todo el mundo. Panorama General”. Grupo Banco Mundial.]( https://openknowledge.worldbank.org/bitstream/handle/10986/28428/211210ovSP.pdf?sequence=12&isAllowed=y) 
  
 + Stock, J. H., & Watson, M. M. (2012). Introducción a la Econometría (3a ed.). Pearson Educación, S.A.
 
-+ Vélez Grajales, Roberto; Monroy-Gómez-Franco, Luis A. “Movilidad social en México: hallazgos y pendientes”. Centro de Estudios Espinosa Yglesias y City University of New York. (2018). https://ceey.org.mx/wp-content/uploads/2018/10/02-Vélez-Grajales-Monroy-Gómez-Franco-2018.pdf
++ Vélez Grajales, Roberto; Monroy-Gómez-Franco, Luis A. [“Movilidad social en México: hallazgos y pendientes”.](https://ceey.org.mx/wp-content/uploads/2018/10/02-Vélez-Grajales-Monroy-Gómez-Franco-2018.pdf) Centro de Estudios Espinosa Yglesias y City University of New York. (2018). 
  
-+ Vélez Grajales, Roberto; Stabridis, Omar. “Empleados, auto-empleados y empresarios: análisis comparado sobre movilidad social intergeneracional en México”. Centro de Estudios Espinosa Yglesias. (2015). https://ceey.org.mx/wp-content/uploads/2018/06/03-Vélez-Stabridis-2015-1.pdf
++ Vélez Grajales, Roberto; Stabridis, Omar. [“Empleados, auto-empleados y empresarios: análisis comparado sobre movilidad social intergeneracional en México”](https://ceey.org.mx/wp-content/uploads/2018/06/03-Vélez-Stabridis-2015-1.pdf). Centro de Estudios Espinosa Yglesias. (2015).
 
-+ Vélez Grajales, Roberto; Vélez Grajales, Liliana; Stabridis, Omar. “Construcción de un índice de riqueza intergeneracional a partir de la Encuesta ESRU de Movilidad Social en México (EMOVI)”. Centro de Estudios Espinosa Yglesias. (2015). https://ceey.org.mx/construccion-de-un-indice-de-riqueza-intergeneracional-a-partir-de-la-encuesta-esru-de-movilidad-social-en-mexico/
++ Vélez Grajales, Roberto; Vélez Grajales, Liliana; Stabridis, Omar. [“Construcción de un índice de riqueza intergeneracional a partir de la Encuesta ESRU de Movilidad Social en México (EMOVI)”](https://ceey.org.mx/construccion-de-un-indice-de-riqueza-intergeneracional-a-partir-de-la-encuesta-esru-de-movilidad-social-en-mexico/). Centro de Estudios Espinosa Yglesias. (2015).
