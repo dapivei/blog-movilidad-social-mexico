@@ -35,12 +35,13 @@ Todos hemos escuchado o incluso, dicho, comentarios como los anteriores. Pero, �
 
 <div align='justify'>
 
-Este movimiento o desplazamiento (hacia arriba o abajo) de las personas, hogares o grupos sociales a través de distintos estratos socioeconómicos, es conocido como movilidad social y es un elemento muy relevante para el bienestar de los individuos, la cohesión social y el desarrollo de las democracias.  
+Este movimiento o desplazamiento (hacia arriba o abajo) de las personas, hogares o grupos sociales a través de distintos estratos socioeconómicos, es conocido como movilidad social y es un elemento muy relevante para el bienestar de los individuos, la cohesión social y el desarrollo de las democracias. 
 </div>
 
 <div align='justify'>
 
 En ese contexto, el último informe sobre movilidad social elaborado por el Banco Mundial, señala que se ha dado un estancamiento en movilidad social durante los últimos 30 años y que existen diferencias relevantes entre países; en promedio, la movilidad social es menor en las economías en vías de desarrollo que en las economías desarrolladas, lo que se manifiesta en el hecho de que 46 de los 50 países con las tasas más bajas de movilidad educativa ascendente son países en vías de desarrollo.
+
 </div>
 
 <div align='justify'>
@@ -67,16 +68,17 @@ Ahora bien, se observa que México es un país con baja movilidad social: los me
 
 <div align='justify'>
 Gracias a la conjunción de esfuerzos del Instituto Nacional de Estadística y Geografía (INEGI), el Centro de Estudios Espinosa Yglesias (CEEY) y la Fundación Espinosa Rugarcía, I.B.P. (ESRU), México cuenta desde 2006, con la Encuesta ESRU-EMOVI y a partir del 2016 con el Módulo de Movilidad Social Intergeneracional (MMSI). Estos datos permiten medir y dar seguimiento a la movilidad social en México a lo largo del tiempo. 
+
 </div>
 
 <div align='justify'>
-A partir del índice de riqueza elaborado por la ESRU-EMOVI 2017, se observa que el 47 por ciento de las personas que nacen en el primer quintil, el estrato más bajo de riqueza, permanecen en el mismo estrato (fenómeno conocido como sticky floors), y sólo 3.3 por ciento logra posicionarse en el estrato más alto. De forma análoga, alrededor de 54 por ciento de las personas que nacen en el peldaño más alto del estrato social, permanecen en este estrato (fenómeno conocido como sticky ceilings), y solamente 2.3 por ciento, caen hasta el último peldaño. Además, se advierte que los hijos de padres pertenecientes a la clase media (quintiles dos y tres) tienen mayor probabilidad de descender que de ascender en esta escala.
+A partir del índice de riqueza elaborado por la ESRU-EMOVI 2017, se observa que el 47 por ciento de las personas que nacen en el primer quintil, el estrato más bajo de riqueza, permanecen en el mismo estrato (fenómeno conocido como sticky floors), y sólo 3.3 por ciento logra posicionarse en el estrato más alto. De forma análoga, alrededor de 54 por ciento de las personas que nacen en el peldaño más alto del estrato social, permanecen en este estrato (fenómeno conocido como sticky ceilings), y solamente 2.3 por ciento, caen hasta el último peldaño. Además, se advierte que los hijos de padres pertenecientes a la clase media (quintiles dos y tres) tienen mayor probabilidad de descender que de ascender en esta escala.ender que de ascender en esta escala.
 
 </div>
 
 <p align="center">
 
-  <img src="images/quintiles_ms.png" width =600 height =450/>
+  <img src="images/quintiles_ms.png" width =400 height =350/>
 
 </p>
 
@@ -93,21 +95,23 @@ A partir del índice de riqueza elaborado por la ESRU-EMOVI 2017, se observa que
 
 <div align='justify'>
 ¿Cómo podría México lograr avances importantes en materia de movilidad social? En principio, podría pensarse en la educación como un mecanismo para superar el problema de los sticky floors y permitir una mayor movilidad social, pero ¿existe evidencia de que la educación es realmente un factor que ayuda a la movilidad hacia arriba? 
+
 </div>
 
 <div align='justify'>
-Como primer acercamiento al tema, a partir de los datos de la ESRU-EMOVI 2017, construimos matrices de transición intergeneracionales, que nos permiten observar la distribución de los hijos por quintiles de riqueza, de acuerdo al quintil de su hogar de origen. En particular, se construyó una matriz de transición para cada nivel educativo del entrevistado, en donde se observa que la proporción de los hijos que permanecen en el estrato de origen o se mueven a otros estratos, es diferente para los distintos niveles educativos. 
+Como primer acercamiento al tema, a partir de los datos de la ESRU-EMOVI 2017, construimos matrices de transición intergeneracionales, que nos permiten observar la distribución de los hijos por quintiles de riqueza, de acuerdo al quintil de su hogar de origen. En particular, se construyó una matriz de transición para cada nivel educativo del entrevistado, en donde se observa que la proporción de los hijos que permanecen en el estrato de origen o se mueven a otros estratos, es diferente para los distintos niveles educativos. En estas gráficas cada columna representa un quintil del hogar de origen y cada color representa un quintil del hogar de destino.
+
 </div>
 
 <div align='justify'>
-Por ejemplo, del total de individuos cuyo quintil de origen es el primero (el más pobre dentro de la distribución de riqueza) y que alcanzaron un nivel educativo de primaria, 44 por ciento permanece en dicho quintil; mientras que del total de individuos con origen en el mismo quintil pero que concluyeron estudios profesionales, solamente el 20.7 por ciento permanece en el mismo quintil. Por lo tanto, parecería que entre mayor es el nivel educativo que alcanza el individuo, mayores son sus posibilidades de ascender en los estratos de riqueza.
+Por ejemplo, como se puede observar en la primera columna de la gráfica de la izquierda, del total de individuos cuyo quintil de origen es el primero (el más pobre dentro de la distribución de riqueza) y que alcanzaron un nivel educativo de primaria, 44 por ciento permanece en dicho quintil. Mientras tanto, como se observa en la gráfica de la derecha, del total de individuos con origen en el primer quintil pero que concluyeron estudios profesionales, solamente el 20.7 por ciento permanece en el mismo quintil. Por lo tanto, parecería que entre mayor es el nivel educativo que alcanza el individuo, mayores son sus posibilidades de ascender en los estratos de riqueza.
 
 </div>
 
 
 <p align="center">
 
-  <img src="images/matrices_transicion.png"  width=600 height =400/>
+  <img src="images/matrices_transicion.png"  width=640 height =400/>
 
 </p>
 
@@ -117,11 +121,12 @@ Por su parte, el Banco Mundial, en su informe Movilidad Económica entre Generac
 
 <div align='justify'>
 En este aspecto, a partir de los datos de la ESRU-EMOVI 2017 se observa que, actualmente, las personas en México cuentan, en promedio, con casi 5 años de escolaridad más que sus padres (13.3 y 7.6 años, respectivamente). Como se muestra en las siguientes tablas, la gran mayoría de las personas que han alcanzado cierto grado educativo, tienen padres con un nivel educativo menor; por ejemplo, 78.5 por ciento de las personas que estudiaron hasta primaria (nivel 3) superó el nivel educativo de la madre (en el 56.4 por ciento de los casos la madre no tenía estudios y en el 22.08 por ciento tenía la primaria incompleta). Asimismo, se advierte que el 86.36 por ciento de los encuestados sin estudios tiene un padre sin estudios y 89 por ciento una madre sin estudios; ninguno de ellos tiene un padre con estudios profesionales. 
+
 </div>
 
 <p align="center">
 
-  <img src="images/educ_padre_madre_hijo.png"  width=500 height =300/>
+  <img src="images/educ_padre_madre_hijo.png"  width=550 height =340/>
 
 </p>
 
@@ -132,12 +137,14 @@ Con el fin de contar con mayor claridad sobre el papel de la educación en la mo
 
 <div align='justify'>
 A partir de este índice de riqueza, y con información sobre años de educación y otros factores que podrían favorecer o limitar la movilidad ascendente (género, lugar de residencia, color de piel, entre otros), se estimó un modelo de Probit ordenado, para predecir el cambio de la probabilidad de pertenecer a alguno de los quintiles de distribución de la riqueza, cuando cambia algún factor como los señalados. En particular, dado que nos interesa conocer si la educación es un factor que ayuda a la movilidad hacia arriba, analizamos los cambios en probabilidad que se relacionan con cambios en los años de educación de las personas.
+
 </div>
 
 ## ¿Qué dice la evidencia estadística?
 
 <div align='justify'>
 La primera columna de la tabla siguiente presenta la estimación del modelo Probit ordenado en el que la variable dependiente tiene las 5 categorías de riqueza (quintiles) en las que se clasificó a los hogares, y como variables independientes se incluyen las siguientes: educación de la persona, educación del padre, educación de la madre, si la persona es mujer, si el individuo está casado, edad, edad al cuadrado, si la persona vive en una localidad rural, si vive en un lugar inseguro, su color de piel, el quintil de su hogar de origen y la región del país en la que vive. A partir de los resultados que se presentan en esa columna, podemos concluir que  la educación, en términos de años adicionales de educación, es un factor que aumenta la probabilidad de estar en el quintil 5 -más rico- y disminuye la probabilidad de estar en el quintil 1-más pobre. 
+
 </div>
 
 <p align="center">
@@ -148,11 +155,12 @@ La primera columna de la tabla siguiente presenta la estimación del modelo Prob
 
 
 <div align='justify'>
-En la tabla anterior, también aparecen los resultados de la estimación del modelo al calcular los efectos marginales para cada uno de los quintiles de la distribución de la riqueza, para una persona con las características promedio. Puede verse que, manteniendo todo lo demás constante, un año adicional de educación reduce la probabilidad de que esa persona se ubique en el quintil 1, el quintil 2 y el quintil 3, y aumenta la probabilidad de que se encuentre en el quintil 4 y en el quintil 5. Por ejemplo, si la persona promedio estuviera en el quintil uno y decidiera estudiar un año más, su probabilidad de abandonar dicho quintil aumentaría en 1.6 puntos porcentuales (pp); mientras que si se encontrara en el quintil cinco, tendría un aumento de casi 2 pp en la probabilidad de mantenerse en ese quintil. Cabe mencionar que la educación de los padres tiene el mismo efecto en cuanto a que incrementa la probabilidad de que los hijos alcancen mayores estratos de riqueza. 
+En la tabla anterior, también aparecen los resultados de la estimación del modelo al calcular los efectos marginales para cada uno de los quintiles de la distribución de la riqueza, para una persona con las características promedio. Puede verse que, manteniendo todo lo demás constante, un año adicional de educación reduce la probabilidad de que esa persona se ubique en el quintil 1, el quintil 2 y el quintil 3, y aumenta la probabilidad de que se encuentre en el quintil 4 y en el quintil 5. Por ejemplo, si la persona promedio estuviera en el quintil uno y decidiera estudiar un año más, su probabilidad de abandonar dicho quintil aumentaría en 1.6 puntos porcentuales (pp); mientras que si se encontrara en el quintil cinco, tendría un aumento de casi 2 pp en la probabilidad de mantenerse en ese quintil. Cabe mencionar que la educación de los padres tiene el mismo efecto en cuanto a que incrementa la probabilidad de que los hijos alcancen mayores estratos de riqueza.
 </div>
 
 <div align='justify'>
-Las demás variables de control muestran que hay mayor probabilidad de mantenerse en los quintiles bajos si tienes alguna de las siguientes características: eres mujer, eres soltero, eres joven, vives en una localidad rural, enfrentas mayor inseguridad en tu entorno, eres de tez morena o negro, y si vives en alguna de las siguientes regiones: norte-occidente, centro-norte y sur, en lugar de vivir en el centro del país. 
+Las demás variables de control muestran que existe mayor probabilidad de mantenerse en los quintiles bajos si tienes alguna de las siguientes características: eres mujer, eres soltero, eres joven, vives en una localidad rural, enfrentas mayor inseguridad en tu entorno, eres de tez morena o negro, y si vives en alguna de las siguientes regiones: norte-occidente, centro-norte y sur, en lugar de vivir en el centro del país. 
+
 </div>
 
 ## ¿Estudiar más tiene el mismo efecto para todos?
@@ -173,11 +181,13 @@ El modelo que se presenta en este blog puede brindarnos información del efecto 
 
 
 <div align='justify'>
-Juana fue entrevistada en la ESRU-EMOVI 2017 y es una mujer de 25 años, soltera y de tez morena, que vive en el municipio de Cochoapa el Grande, una localidad rural, de las más pobres e inseguras del Estado de Guerrero. Juana nació en un hogar en el primer quintil de la distribución de la riqueza; sus padres cuentan con únicamente 3 años de educación y ella, con 6 años de educación. ¿A qué quintil de riqueza es más probable que pertenezca Juana? ¿Qué pasa si Juana aumenta en un año su escolaridad? 
+Juana es una mujer de 25 años, soltera y de tez morena, que vive en el municipio de Cochoapa el Grande, una localidad rural, de las más pobres e inseguras del Estado de Guerrero. Juana nació en un hogar en el primer quintil de la distribución de la riqueza; sus padres cuentan con únicamente 3 años de educación y ella, con 6 años de educación. ¿A qué quintil de riqueza es más probable que pertenezca Juana? ¿Qué pasa si Juana aumenta en un año su escolaridad? 
+ 
 </div>
 
 <div align='justify'>
 Con el modelo estadístico que construimos es posible responder ambas preguntas. Con el perfil antes descrito, la probabilidad de que Juana pertenezca al primer quintil de la distribución de riqueza es de 97 por ciento. Si mantenemos las características antes descritas, con un aumento en un año de escolaridad, su probabilidad de permanecer en el primer quintil disminuye en 0.79 pp; mientras que su probabilidad de pertenecer al segundo y al tercer quintil aumenta en 0.66 pp y 0.11 pp, respectivamente. 
+
 </div>
 
 <div align='justify'>
@@ -195,17 +205,29 @@ Ahora, nos preguntamos, ¿cuántos años adicionales de educación requeriría J
 <div align='justify'>
   
 Un caso opuesto al de Juana, es el de Miguel, un hombre de 40 años, casado y de tez blanca, que vive en una zona muy segura de la Ciudad de México. Miguel nació en un hogar que pertenece al quintil más alto de la distribución de la riqueza; su madre tiene 24 años de educación, su padre 20, y él cuenta también con 20 años de educación. Nuevamente, nos preguntamos, ¿a qué quintil de riqueza es más probable que pertenezca Miguel? ¿Qué pasa si Miguel aumenta en un año su escolaridad?
+
+
 </div>
 
 <div align='justify'>
 El modelo nos indica que la probabilidad de que Miguel pertenezca al quintil más alto de la distribución de riqueza es de 92.7 por ciento. Asumiendo que las características de Miguel se mantienen constantes y decide cursar un diplomado con duración de un año, su probabilidad de pertenecer al 5° quintil de la distribución de riqueza aumenta en 1.22 pp y, por lo tanto, disminuye su probabilidad de pertenecer a cualquiera de los demás quintiles. 
+
+
 </div>
 
 <div align='justify'>
 Ahora, nos preguntamos, ¿cuántos años menos de educación tendría que haber tenido Miguel para que su probabilidad de permanecer en el 5° quintil fuera menor al 50 por ciento? Con nuestro modelo estadístico concluimos que Miguel tendría que tener 16 años de educación menos (solo 4 años de educación en total), para que su probabilidad de pertenecer al quintil 5° se encuentre por debajo del 50 por ciento (específicamente, en 47.7 por ciento). Aún así, independientemente de su nivel de educación, existe una probabilidad alta de que Miguel permanezca en el quintil más alto de la distribución de riqueza. 
 </div>
 
-## Índice Estadístico
+## Conclusiones
+
+Este blog se elaboró con el objetivo de identificar si la educación es un factor que contribuye a la movilidad intergeneracional ascendente. Un primer acercamiento, mediante la estadística descriptiva, indica que el nivel educativo se relaciona con las posibilidades que tiene una persona de ascender a estratos de riqueza superiores. 
+
+Esta primera intuición se reforzó con la construcción de un modelo econométrico de probit ordenado, que aporta evidencia de que la educación, medida en términos de años adicionales de educación, es un factor que aumenta la probabilidad de estar en los quintiles más altos de la distribución de riqueza y disminuye la probabilidad de encontrarse en los quintiles más bajos.
+
+No obstante, a partir de las historias de Juana y Miguel, observamos que el potencial de la educación para lograr una movilidad hacia arriba, se encuentra acotado por otros factores que se relacionan negativamente con la movilidad ascendente, como el género, la edad o el lugar de residencia. En ese sentido, se advierte que, en México, la baja movilidad intergeneracional es un problema multidimensional. Finalmente, este ejercicio podría ampliarse a partir de información sobre la calidad de la educación que reciben los niños y jóvenes del país, ya que una mala calidad educativa podría reducir el impacto de los años de educación en las posibilidades de movilidad social ascendente.
+
+## Apéndice Estadístico
 
 Ver [aquí](https://github.com/dapivei/blog-movilidad-social-mexico/blob/main/docs/apendice_estadistico.pdf).
 
@@ -227,7 +249,7 @@ Este equipo se conforma por:
 
 El trabajo se dividió, en términos generales, en dos grupos, uno de ellos se ocupó de desarrollar el modelo y otro de incorporar la literatura y motivación. Marisol Nava, Rafael Sandoval y Luis Fierro se encargaron del planteamiento y estimación del modelo; Daniela Pinto, Cynthia Valdivia y Nestor Rodríguez se enfocaron en desarrollar un documento base a partir de la literatura y motivación de la problemática. Como tarea especial, Daniela Pinto se encargó de la creación del blog en Github. 
 
-Independientemente de esta división, de facto, todos los integrantes del equipo contribuyeron con insumos para el proyecto general y todos estuvieron involucrados en la interpretación de coeficientes y la generación de perfiles. 
+Independientemente de esta división todos los integrantes del equipo contribuyeron con insumos para el proyecto general y todos se involucraron en la interpretación de los resultados del modelo, la generación de perfiles y la elaboración de conclusiones.
 </div>
 
 ## Bibliografía
