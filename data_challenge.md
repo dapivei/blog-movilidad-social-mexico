@@ -236,8 +236,11 @@ A través de los siguientes links podrán revisar los siguientes documentos que 
 
 
 > + [Apéndice estadístico](https://github.com/dapivei/blog-movilidad-social-mexico/blob/main/docs/apendice_estadistico.pdf)
->  + [Código](https://github.com/dapivei/blog-movilidad-social-mexico/tree/main/scripts˚)
+>  + [Código](https://github.com/dapivei/blog-movilidad-social-mexico/tree/main/scripts)
 > +  [Datos](https://github.com/dapivei/blog-movilidad-social-mexico/tree/main/data)
+> + [Calculadora de Probabilidades](https://github.com/dapivei/blog-movilidad-social-mexico/tree/main/calculadora)
+
+En particular, con la calculadora podrán calcular cambios en la probabilidad de pertenecer a cierto quintil al cambiar alguna característica particular de una persona (p.ej un aumento de 1 año de educación).
 
 ## Contribuciones
 
