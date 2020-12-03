@@ -14,10 +14,12 @@ Para mayor detalle sobre el desarrollo e implementación del modelo econométric
 
 ## Contenido del Sitio
     .
-    ├── data.                      # datos con los que se elaboró el modelo econométrico y las gráficas del blog
-    ├── scripts.                   # Do file y R script que replican el modelo y las gráficas del modelo
+    ├── data.                      # datos con los que se elaboró el modelo 
+    |                              # econométrico y las gráficas del blog
+    ├── scripts.                   # Do file y R script que replican el modelo
+    |                              # y las gráficas del modelo
     ├── docs.                      # apéndice estádistico
-    ├── images                     # imágenes asociados al proyecto
+    ├── images                     # imágenes asociadas al proyecto
     ├── _config.yml                # configuraciones del blog
     ├── _layouts                   # configuraciones del blog
     ├── data_challenge.md          # texto del blog
