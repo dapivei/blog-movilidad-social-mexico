@@ -17,9 +17,9 @@ title: "Movilidad Social Intergeneracional en México"
 
 
 <p align= 'center'>
-  
 
-¡Estudia, esfuérzate y triunfarás! Los pobres son pobres porque quieren. 
+
+¡Estudia, esfuérzate y triunfarás! Los pobres son pobres porque quieren.
 
 
 
@@ -35,7 +35,7 @@ Todos hemos escuchado o incluso, dicho, comentarios como los anteriores. Pero, �
 
 <div align='justify'>
 
-Este movimiento o desplazamiento (hacia arriba o abajo) de las personas, hogares o grupos sociales a través de distintos estratos socioeconómicos, es conocido como movilidad social y es un elemento muy relevante para el bienestar de los individuos, la cohesión social y el desarrollo de las democracias. 
+Este movimiento o desplazamiento (hacia arriba o abajo) de las personas, hogares o grupos sociales a través de distintos estratos socioeconómicos, es conocido como movilidad social y es un elemento muy relevante para el bienestar de los individuos, la cohesión social y el desarrollo de las democracias.
 </div>
 
 <div align='justify'>
@@ -58,7 +58,7 @@ En el mismo sentido, de acuerdo con el Índice Global de Movilidad Social (IGMS)
 </p>
 
 <div align='justify'>
-  
+
 De acuerdo con lo anterior, en ningún lugar del mundo existe movilidad social perfecta. Incluso en Dinamarca, el país con mayor movilidad social (85.2/100), las perspectivas de vida de las personas se encuentran relacionadas con la condición social de sus padres y no sólo con sus méritos individuales; en ese país, una persona que nace en una familia pobre le llevaría, en promedio, dos generaciones para alcanzar un ingreso medio; en otros países como Francia se requieren seis generaciones para que ocurra este movimiento y, en casos más extremos (como en Brasil o Sudáfrica), nueve generaciones.
 </div>
 
@@ -67,7 +67,7 @@ Ahora bien, se observa que México es un país con baja movilidad social: los me
 </div>
 
 <div align='justify'>
-Gracias a la conjunción de esfuerzos del Instituto Nacional de Estadística y Geografía (INEGI), el Centro de Estudios Espinosa Yglesias (CEEY) y la Fundación Espinosa Rugarcía, I.B.P. (ESRU), México cuenta desde 2006, con la Encuesta ESRU-EMOVI y a partir del 2016 con el Módulo de Movilidad Social Intergeneracional (MMSI). Estos datos permiten medir y dar seguimiento a la movilidad social en México a lo largo del tiempo. 
+Gracias a la conjunción de esfuerzos del Instituto Nacional de Estadística y Geografía (INEGI), el Centro de Estudios Espinosa Yglesias (CEEY) y la Fundación Espinosa Rugarcía, I.B.P. (ESRU), México cuenta desde 2006, con la Encuesta ESRU-EMOVI y a partir del 2016 con el Módulo de Movilidad Social Intergeneracional (MMSI). Estos datos permiten medir y dar seguimiento a la movilidad social en México a lo largo del tiempo.
 
 </div>
 
@@ -83,7 +83,7 @@ A partir del índice de riqueza elaborado por la ESRU-EMOVI 2017, se observa que
 </p>
 
 
-  
+
 ## La educación, ¿motor para alcanzar mayor movilidad social?
 
 
@@ -94,7 +94,7 @@ A partir del índice de riqueza elaborado por la ESRU-EMOVI 2017, se observa que
 </p>
 
 <div align='justify'>
-¿Cómo podría México lograr avances importantes en materia de movilidad social? En principio, podría pensarse en la educación como un mecanismo para superar el problema de los sticky floors y permitir una mayor movilidad social, pero ¿existe evidencia de que la educación es realmente un factor que ayuda a la movilidad hacia arriba? 
+¿Cómo podría México lograr avances importantes en materia de movilidad social? En principio, podría pensarse en la educación como un mecanismo para superar el problema de los sticky floors y permitir una mayor movilidad social, pero ¿existe evidencia de que la educación es realmente un factor que ayuda a la movilidad hacia arriba?
 
 </div>
 
@@ -116,11 +116,11 @@ Por ejemplo, como se puede observar en la primera columna de la gráfica de la i
 </p>
 
 <div align='justify'>
-Por su parte, el Banco Mundial, en su informe Movilidad Económica entre Generaciones, encuentra que las economías con mayor movilidad educativa intergeneracional tienen más probabilidades de alcanzar tasas más altas de crecimiento y reducción de la pobreza. 
+Por su parte, el Banco Mundial, en su informe Movilidad Económica entre Generaciones, encuentra que las economías con mayor movilidad educativa intergeneracional tienen más probabilidades de alcanzar tasas más altas de crecimiento y reducción de la pobreza.
 </div>
 
 <div align='justify'>
-En este aspecto, a partir de los datos de la ESRU-EMOVI 2017 se observa que, actualmente, las personas en México cuentan, en promedio, con casi 5 años de escolaridad más que sus padres (13.3 y 7.6 años, respectivamente). Como se muestra en las siguientes tablas, la gran mayoría de las personas que han alcanzado cierto grado educativo, tienen padres con un nivel educativo menor; por ejemplo, 78.5 por ciento de las personas que estudiaron hasta primaria (nivel 3) superó el nivel educativo de la madre (en el 56.4 por ciento de los casos la madre no tenía estudios y en el 22.08 por ciento tenía la primaria incompleta). Asimismo, se advierte que el 86.36 por ciento de los encuestados sin estudios tiene un padre sin estudios y 89 por ciento una madre sin estudios; ninguno de ellos tiene un padre con estudios profesionales. 
+En este aspecto, a partir de los datos de la ESRU-EMOVI 2017 se observa que, actualmente, las personas en México cuentan, en promedio, con casi 5 años de escolaridad más que sus padres (13.3 y 7.6 años, respectivamente). Como se muestra en las siguientes tablas, la gran mayoría de las personas que han alcanzado cierto grado educativo, tienen padres con un nivel educativo menor; por ejemplo, 78.5 por ciento de las personas que estudiaron hasta primaria (nivel 3) superó el nivel educativo de la madre (en el 56.4 por ciento de los casos la madre no tenía estudios y en el 22.08 por ciento tenía la primaria incompleta). Asimismo, se advierte que el 86.36 por ciento de los encuestados sin estudios tiene un padre sin estudios y 89 por ciento una madre sin estudios; ninguno de ellos tiene un padre con estudios profesionales.
 
 </div>
 
@@ -131,8 +131,8 @@ En este aspecto, a partir de los datos de la ESRU-EMOVI 2017 se observa que, act
 </p>
 
 <div align='justify'>
-  
-Con el fin de contar con mayor claridad sobre el papel de la educación en la movilidad intergeneracional en México, se realizó un estudio econométrico con datos de la ESRU-EMOVI, 2017. En primer lugar, se construyó un índice de riqueza para dos generaciones (hogar de origen y hogar del entrevistado), tomando en cuenta diferentes bienes o servicios a los que los hogares tienen acceso. Este índice  permitió clasificar a los hogares en 5 quintiles o categorías (el 1 es el quintil más bajo-con menor riqueza- y el 5 es el más alto-con mayor riqueza). 
+
+Con el fin de contar con mayor claridad sobre el papel de la educación en la movilidad intergeneracional en México, se realizó un estudio econométrico con datos de la ESRU-EMOVI, 2017. En primer lugar, se construyó un índice de riqueza para dos generaciones (hogar de origen y hogar del entrevistado), tomando en cuenta diferentes bienes o servicios a los que los hogares tienen acceso. Este índice  permitió clasificar a los hogares en 5 quintiles o categorías (el 1 es el quintil más bajo-con menor riqueza- y el 5 es el más alto-con mayor riqueza).
 </div>
 
 <div align='justify'>
@@ -143,7 +143,7 @@ A partir de este índice de riqueza, y con información sobre años de educació
 ## ¿Qué dice la evidencia estadística?
 
 <div align='justify'>
-La primera columna de la tabla siguiente presenta la estimación del modelo Probit ordenado en el que la variable dependiente tiene las 5 categorías de riqueza (quintiles) en las que se clasificó a los hogares, y como variables independientes se incluyen las siguientes: educación de la persona, educación del padre, educación de la madre, si la persona es mujer, si el individuo está casado, edad, edad al cuadrado, si la persona vive en una localidad rural, si vive en un lugar inseguro, su color de piel, el quintil de su hogar de origen y la región del país en la que vive. A partir de los resultados que se presentan en esa columna, podemos concluir que  la educación, en términos de años adicionales de educación, es un factor que aumenta la probabilidad de estar en el quintil 5 -más rico- y disminuye la probabilidad de estar en el quintil 1-más pobre. 
+La primera columna de la tabla siguiente presenta la estimación del modelo Probit ordenado en el que la variable dependiente tiene las 5 categorías de riqueza (quintiles) en las que se clasificó a los hogares, y como variables independientes se incluyen las siguientes: educación de la persona, educación del padre, educación de la madre, si la persona es mujer, si el individuo está casado, edad, edad al cuadrado, si la persona vive en una localidad rural, si vive en un lugar inseguro, su color de piel, el quintil de su hogar de origen y la región del país en la que vive. A partir de los resultados que se presentan en esa columna, podemos concluir que  la educación, en términos de años adicionales de educación, es un factor que aumenta la probabilidad de estar en el quintil 5 -más rico- y disminuye la probabilidad de estar en el quintil 1-más pobre.
 
 </div>
 
@@ -159,14 +159,14 @@ En la tabla anterior, también aparecen los resultados de la estimación del mod
 </div>
 
 <div align='justify'>
-Las demás variables de control muestran que existe mayor probabilidad de mantenerse en los quintiles bajos si tienes alguna de las siguientes características: eres mujer, eres soltero, eres joven, vives en una localidad rural, enfrentas mayor inseguridad en tu entorno, eres de tez morena o negro, y si vives en alguna de las siguientes regiones: norte-occidente, centro-norte y sur, en lugar de vivir en el centro del país. 
+Las demás variables de control muestran que existe mayor probabilidad de mantenerse en los quintiles bajos si tienes alguna de las siguientes características: eres mujer, eres soltero, eres joven, vives en una localidad rural, enfrentas mayor inseguridad en tu entorno, eres de tez morena o negro, y si vives en alguna de las siguientes regiones: norte-occidente, centro-norte y sur, en lugar de vivir en el centro del país.
 
 </div>
 
 ## ¿Estudiar más tiene el mismo efecto para todos?
 
 <div align='justify'>
-El modelo que se presenta en este blog puede brindarnos información del efecto de la educación en la probabilidad de que las personas mejoren su calidad de vida, entendido como la posibilidad de acceder a quintiles más altos de la distribución de la riqueza. Sin embargo, el efecto de la educación no es igual para todos, pues depende, entre otras cosas, de las características sociodemográficas de cada persona. Para ejemplificar mejor esta situación, se crearon perfiles o casos hipotéticos de personas, que se desarrollan a continuación. 
+El modelo que se presenta en este blog puede brindarnos información del efecto de la educación en la probabilidad de que las personas mejoren su calidad de vida, entendido como la posibilidad de acceder a quintiles más altos de la distribución de la riqueza. Sin embargo, el efecto de la educación no es igual para todos, pues depende, entre otras cosas, de las características sociodemográficas de cada persona. Para ejemplificar mejor esta situación, se crearon perfiles o casos hipotéticos de personas, que se desarrollan a continuación.
 </div>
 
 > **Caso I: Juana, de Cochoapa el Grande, Guerrero**
@@ -181,12 +181,12 @@ El modelo que se presenta en este blog puede brindarnos información del efecto 
 
 
 <div align='justify'>
-Juana es una mujer de 25 años, soltera y de tez morena, que vive en el municipio de Cochoapa el Grande, una localidad rural, de las más pobres e inseguras del Estado de Guerrero. Juana nació en un hogar en el primer quintil de la distribución de la riqueza; sus padres cuentan con únicamente 3 años de educación y ella, con 6 años de educación. ¿A qué quintil de riqueza es más probable que pertenezca Juana? ¿Qué pasa si Juana aumenta en un año su escolaridad? 
- 
+Juana es una mujer de 25 años, soltera y de tez morena, que vive en el municipio de Cochoapa el Grande, una localidad rural, de las más pobres e inseguras del Estado de Guerrero. Juana nació en un hogar en el primer quintil de la distribución de la riqueza; sus padres cuentan con únicamente 3 años de educación y ella, con 6 años de educación. ¿A qué quintil de riqueza es más probable que pertenezca Juana? ¿Qué pasa si Juana aumenta en un año su escolaridad?
+
 </div>
 
 <div align='justify'>
-Con el modelo estadístico que construimos es posible responder ambas preguntas. Con el perfil antes descrito, la probabilidad de que Juana pertenezca al primer quintil de la distribución de riqueza es de 97 por ciento. Si mantenemos las características antes descritas, con un aumento en un año de escolaridad, su probabilidad de permanecer en el primer quintil disminuye en 0.79 pp; mientras que su probabilidad de pertenecer al segundo y al tercer quintil aumenta en 0.66 pp y 0.11 pp, respectivamente. 
+Con el modelo estadístico que construimos es posible responder ambas preguntas. Con el perfil antes descrito, la probabilidad de que Juana pertenezca al primer quintil de la distribución de riqueza es de 97 por ciento. Si mantenemos las características antes descritas, con un aumento en un año de escolaridad, su probabilidad de permanecer en el primer quintil disminuye en 0.79 pp; mientras que su probabilidad de pertenecer al segundo y al tercer quintil aumenta en 0.66 pp y 0.11 pp, respectivamente.
 
 </div>
 
@@ -203,43 +203,51 @@ Ahora, nos preguntamos, ¿cuántos años adicionales de educación requeriría J
 </p>
 
 <div align='justify'>
-  
+
 Un caso opuesto al de Juana, es el de Miguel, un hombre de 40 años, casado y de tez blanca, que vive en una zona muy segura de la Ciudad de México. Miguel nació en un hogar que pertenece al quintil más alto de la distribución de la riqueza; su madre tiene 24 años de educación, su padre 20, y él cuenta también con 20 años de educación. Nuevamente, nos preguntamos, ¿a qué quintil de riqueza es más probable que pertenezca Miguel? ¿Qué pasa si Miguel aumenta en un año su escolaridad?
 
 
 </div>
 
 <div align='justify'>
-El modelo nos indica que la probabilidad de que Miguel pertenezca al quintil más alto de la distribución de riqueza es de 92.7 por ciento. Asumiendo que las características de Miguel se mantienen constantes y decide cursar un diplomado con duración de un año, su probabilidad de pertenecer al 5° quintil de la distribución de riqueza aumenta en 1.22 pp y, por lo tanto, disminuye su probabilidad de pertenecer a cualquiera de los demás quintiles. 
+El modelo nos indica que la probabilidad de que Miguel pertenezca al quintil más alto de la distribución de riqueza es de 92.7 por ciento. Asumiendo que las características de Miguel se mantienen constantes y decide cursar un diplomado con duración de un año, su probabilidad de pertenecer al 5° quintil de la distribución de riqueza aumenta en 1.22 pp y, por lo tanto, disminuye su probabilidad de pertenecer a cualquiera de los demás quintiles.
 
 
 </div>
 
 <div align='justify'>
-Ahora, nos preguntamos, ¿cuántos años menos de educación tendría que haber tenido Miguel para que su probabilidad de permanecer en el 5° quintil fuera menor al 50 por ciento? Con nuestro modelo estadístico concluimos que Miguel tendría que tener 16 años de educación menos (solo 4 años de educación en total), para que su probabilidad de pertenecer al quintil 5° se encuentre por debajo del 50 por ciento (específicamente, en 47.7 por ciento). Aún así, independientemente de su nivel de educación, existe una probabilidad alta de que Miguel permanezca en el quintil más alto de la distribución de riqueza. 
+Ahora, nos preguntamos, ¿cuántos años menos de educación tendría que haber tenido Miguel para que su probabilidad de permanecer en el 5° quintil fuera menor al 50 por ciento? Con nuestro modelo estadístico concluimos que Miguel tendría que tener 16 años de educación menos (solo 4 años de educación en total), para que su probabilidad de pertenecer al quintil 5° se encuentre por debajo del 50 por ciento (específicamente, en 47.7 por ciento). Aún así, independientemente de su nivel de educación, existe una probabilidad alta de que Miguel permanezca en el quintil más alto de la distribución de riqueza.
 </div>
 
 ## Conclusiones
-
-Este blog se elaboró con el objetivo de identificar si la educación es un factor que contribuye a la movilidad intergeneracional ascendente. Un primer acercamiento, mediante la estadística descriptiva, indica que el nivel educativo se relaciona con las posibilidades que tiene una persona de ascender a estratos de riqueza superiores. 
-
+<div align='justify'>
+Este blog se elaboró con el objetivo de identificar si la educación es un factor que contribuye a la movilidad intergeneracional ascendente. Un primer acercamiento, mediante la estadística descriptiva, indica que el nivel educativo se relaciona con las posibilidades que tiene una persona de ascender a estratos de riqueza superiores.
+</div>
+<div align='justify'>
 Esta primera intuición se reforzó con la construcción de un modelo econométrico de probit ordenado, que aporta evidencia de que la educación, medida en términos de años adicionales de educación, es un factor que aumenta la probabilidad de estar en los quintiles más altos de la distribución de riqueza y disminuye la probabilidad de encontrarse en los quintiles más bajos.
-
+</div>
+<div align='justify'>
 No obstante, a partir de las historias de Juana y Miguel, observamos que el potencial de la educación para lograr una movilidad hacia arriba, se encuentra acotado por otros factores que se relacionan negativamente con la movilidad ascendente, como el género, la edad o el lugar de residencia. En ese sentido, se advierte que, en México, la baja movilidad intergeneracional es un problema multidimensional. Finalmente, este ejercicio podría ampliarse a partir de información sobre la calidad de la educación que reciben los niños y jóvenes del país, ya que una mala calidad educativa podría reducir el impacto de los años de educación en las posibilidades de movilidad social ascendente.
+</div>
 
-## Apéndice Estadístico
+## Replicabilidad del estudio econométrico
 
-Ver [aquí](https://github.com/dapivei/blog-movilidad-social-mexico/blob/main/docs/apendice_estadistico.pdf).
+A través de los siguientes links podrán revisar los siguientes documentos que permiten la replicabilidad de los resultados de este blog:
+
+
+> + [Apéndice estadístico](https://github.com/dapivei/blog-movilidad-social-mexico/blob/main/docs/apendice_estadistico.pdf)
+>  + [Código](https://github.com/dapivei/blog-movilidad-social-mexico/tree/main/scripts˚)
+> +  [Datos](https://github.com/dapivei/blog-movilidad-social-mexico/tree/main/data)
 
 ## Contribuciones
 
 
-Este equipo se conforma por: 
+Este equipo se conforma por:
 
 + Rafael Sandoval
 + Nestor Rodríguez
 + Marisol Nava
-+ Daniela Pinto 
++ Daniela Pinto
 + Luis Fierro
 + Cynthia Valdivia
 
@@ -247,7 +255,7 @@ Este equipo se conforma por:
 
 <div align='justify'>
 
-El trabajo se dividió, en términos generales, en dos grupos, uno de ellos se ocupó de desarrollar el modelo y otro de incorporar la literatura y motivación. Marisol Nava, Rafael Sandoval y Luis Fierro se encargaron del planteamiento y estimación del modelo; Daniela Pinto, Cynthia Valdivia y Nestor Rodríguez se enfocaron en desarrollar un documento base a partir de la literatura y motivación de la problemática. Como tarea especial, Daniela Pinto se encargó de la creación del blog en Github. 
+El trabajo se dividió, en términos generales, en dos grupos, uno de ellos se ocupó de desarrollar el modelo y otro de incorporar la literatura y motivación. Marisol Nava, Rafael Sandoval y Luis Fierro se encargaron del planteamiento y estimación del modelo; Daniela Pinto, Cynthia Valdivia y Nestor Rodríguez se enfocaron en desarrollar un documento base a partir de la literatura y motivación de la problemática. Como tarea especial, Daniela Pinto se encargó de la creación del blog en Github.
 
 Independientemente de esta división todos los integrantes del equipo contribuyeron con insumos para el proyecto general y todos se involucraron en la interpretación de los resultados del modelo, la generación de perfiles y la elaboración de conclusiones.
 </div>
@@ -256,19 +264,19 @@ Independientemente de esta división todos los integrantes del equipo contribuye
 
 + Aguilar, A. A. (2020). [Notas de Microeconometría Aplicada](https://bookdown.org/viclzrz/notasmicro/).
 
-+ Centro de Estudios Espinosa Yglesias, [“Informe Movilidad Social en México 2019. Hacia la igualdad regional de oportunidades”](https://ceey.org.mx/wp-content/uploads/2019/05/Informe-Movilidad-Social-en-México-2019.pdf). 
-+ De la Torre, Rodolfo. [“Reporte de movilidad social educativa 2020. Una mirada a las diferencias regionales”](https://ceey.org.mx/reporte-movilidad-social-educativa-2020-una-mirada-a-las-diferencias-regionales/) Centro de Estudios Espinosa Yglesias. 
++ Centro de Estudios Espinosa Yglesias, [“Informe Movilidad Social en México 2019. Hacia la igualdad regional de oportunidades”](https://ceey.org.mx/wp-content/uploads/2019/05/Informe-Movilidad-Social-en-México-2019.pdf).
++ De la Torre, Rodolfo. [“Reporte de movilidad social educativa 2020. Una mirada a las diferencias regionales”](https://ceey.org.mx/reporte-movilidad-social-educativa-2020-una-mirada-a-las-diferencias-regionales/) Centro de Estudios Espinosa Yglesias.
 
 + Greene, W. H. (2002). Econometric Analysis (5th ed.). Prentice Hall.
- 
+
 + Moreno M., A. Héctor. [“Determinantes de la movilidad educativa intergeneracional y políticas públicas para promoverla”](https://ceey.org.mx/wp-content/uploads/2018/06/07-Moreno-2017.pdf). Centro de Estudios Espinosa Yglesias. (2017).
- 
-+ Narayan, Ambar; Van der Weide, Roy. [“¿Progreso equitativo? Movilidad económica entre generaciones en todo el mundo. Panorama General”. Grupo Banco Mundial.]( https://openknowledge.worldbank.org/bitstream/handle/10986/28428/211210ovSP.pdf?sequence=12&isAllowed=y) 
- 
+
++ Narayan, Ambar; Van der Weide, Roy. [“¿Progreso equitativo? Movilidad económica entre generaciones en todo el mundo. Panorama General”. Grupo Banco Mundial.]( https://openknowledge.worldbank.org/bitstream/handle/10986/28428/211210ovSP.pdf?sequence=12&isAllowed=y)
+
 + Stock, J. H., & Watson, M. M. (2012). Introducción a la Econometría (3a ed.). Pearson Educación, S.A.
 
-+ Vélez Grajales, Roberto; Monroy-Gómez-Franco, Luis A. [“Movilidad social en México: hallazgos y pendientes”.](https://ceey.org.mx/wp-content/uploads/2018/10/02-Vélez-Grajales-Monroy-Gómez-Franco-2018.pdf) Centro de Estudios Espinosa Yglesias y City University of New York. (2018). 
- 
++ Vélez Grajales, Roberto; Monroy-Gómez-Franco, Luis A. [“Movilidad social en México: hallazgos y pendientes”.](https://ceey.org.mx/wp-content/uploads/2018/10/02-Vélez-Grajales-Monroy-Gómez-Franco-2018.pdf) Centro de Estudios Espinosa Yglesias y City University of New York. (2018).
+
 + Vélez Grajales, Roberto; Stabridis, Omar. [“Empleados, auto-empleados y empresarios: análisis comparado sobre movilidad social intergeneracional en México”](https://ceey.org.mx/wp-content/uploads/2018/06/03-Vélez-Stabridis-2015-1.pdf). Centro de Estudios Espinosa Yglesias. (2015).
 
 + Vélez Grajales, Roberto; Vélez Grajales, Liliana; Stabridis, Omar. [“Construcción de un índice de riqueza intergeneracional a partir de la Encuesta ESRU de Movilidad Social en México (EMOVI)”](https://ceey.org.mx/construccion-de-un-indice-de-riqueza-intergeneracional-a-partir-de-la-encuesta-esru-de-movilidad-social-en-mexico/). Centro de Estudios Espinosa Yglesias. (2015).
